@@ -8,4 +8,6 @@
 - `AUTOAUX` is used when correlated method can be obtained without special basis set
 - `NROOTS`
 - `%MAXCORE n` for increasing memory; n is the value of the increase
+- `NUMGRAD` is used when you want to optimize the geometry for a method for which no analytical gradient is available. But this takes longer time for calculation.
+- `TightPNO` is used for steom calculations
 `
