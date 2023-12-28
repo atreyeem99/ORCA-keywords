@@ -12,3 +12,4 @@
 - `TightPNO` is used for steom calculations
 - `TightSCF` for tight convergence
 - `DONTO` for plotting NTOs
+- `ZORA` including relativistic correlation
