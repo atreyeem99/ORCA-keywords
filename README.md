@@ -13,3 +13,4 @@
 - `TightSCF` for tight convergence
 - `DONTO` for plotting NTOs
 - `ZORA` including relativistic correlation
+- `EXTRAPOLATE(3)` 3 calculations using the basis set from the family cc-pVxZ; then CBS result extrapolated
