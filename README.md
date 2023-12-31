@@ -15,3 +15,4 @@
 - `ZORA` including relativistic correlation
 - `EXTRAPOLATE(3)` 3 calculations using the basis set from the family cc-pVxZ; then CBS result extrapolated
 - `IRC` is a special form of a minimum energy path, connecting a transition state (TS) with its downhill-nearest intermediates. A method determining the IRC is thus useful to determine whether a transition state is directly connected to a       given reactant and/or a product.
+- `RIJCOSX`approximations made for large molecules
