@@ -18,3 +18,5 @@
 - `RIJCOSX`approximations made for large molecules
 - `D3` or `D4` In general it is advisable to use the D3 or the charge-dependent D4 corrections. These will correct both the energies and gradients and lead to much better results.
 - `KEEPDENS` to keep the basename.scfp density file, which will later be used to plot the density
+- `TEMP` for mentioning the temperature at which the property is to be measured
+- 
