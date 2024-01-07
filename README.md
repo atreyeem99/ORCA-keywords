@@ -20,3 +20,4 @@
 - `KEEPDENS` to keep the basename.scfp density file, which will later be used to plot the density
 - `TEMP` for mentioning the temperature at which the property is to be measured
 - `BOHRS` for correcting the units in the input file
+- `Polar 1` means that the polarizability is computed analytically
