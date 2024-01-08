@@ -21,3 +21,4 @@
 - `TEMP` for mentioning the temperature at which the property is to be measured
 - `BOHRS` for correcting the units in the input file
 - `Polar 1` means that the polarizability is computed analytically
+- `SCALFREQ` These are empirical factors that can be used to multiply all frequencies and correct for errors from theory 
