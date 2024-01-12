@@ -15,7 +15,8 @@
 - `ZORA` including relativistic correlation
 - `EXTRAPOLATE(3)` 3 calculations using the basis set from the family cc-pVxZ; then CBS result extrapolated
 - `IRC` is a special form of a minimum energy path, connecting a transition state (TS) with its downhill-nearest intermediates. A method determining the IRC is thus useful to determine whether a transition state is directly connected to a       given reactant and/or a product.
-- `RIJCOSX`approximations made for large molecules
+- `RIJCOSX`approximations made for large molecules in TDDFT calculations.
+- `RIJONX` RI approximations made in SCF calculations
 - `D3` or `D4` In general it is advisable to use the D3 or the charge-dependent D4 corrections. These will correct both the energies and gradients and lead to much better results.
 - `KEEPDENS` to keep the basename.scfp density file, which will later be used to plot the density
 - `TEMP` for mentioning the temperature at which the property is to be measured
