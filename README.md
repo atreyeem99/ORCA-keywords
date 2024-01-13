@@ -26,3 +26,4 @@
 - `DOSOC` for performing spin orbit coupling
 - `riints` RI approximation(MO)
 - `riints_disk` faster
+- `PARAS` Input of semi-empirical parameters
