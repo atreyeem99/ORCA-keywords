@@ -30,3 +30,4 @@
 - `DoAlpha` Removal/addition of alpha electrons
 - `DoBeta ` Removal/addition of beta electrons
 - `COORDS` Input of atomic coordinates
+- `LOC` For localization of orbitals
