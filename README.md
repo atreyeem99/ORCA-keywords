@@ -29,4 +29,4 @@
 - `PARAS` Input of semi-empirical parameters
 - `DoAlpha` Removal/addition of alpha electrons
 - `DoBeta ` Removal/addition of beta electrons
-- 
+- `COORDS` Input of atomic coordinates
