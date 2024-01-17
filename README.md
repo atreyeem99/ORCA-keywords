@@ -32,3 +32,4 @@
 - `COORDS` Input of atomic coordinates
 - `LOC` For localization of orbitals
 - `symmetry` Control of spatial symmetry recognition
+- `REL` Control of relativistic options
