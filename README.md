@@ -33,3 +33,4 @@
 - `LOC` For localization of orbitals
 - `symmetry` Control of spatial symmetry recognition
 - `REL` Control of relativistic options
+- `ROCIS` Control of restricted-open-shell CIS
