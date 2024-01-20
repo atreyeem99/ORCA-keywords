@@ -35,3 +35,4 @@
 - `REL` Control of relativistic options
 - `ROCIS` Control of restricted-open-shell CIS
 - `ANGS` Selects Angstorm units
+- `noiter` in order to turn o↵ the standard Hartree-Fock SCF process before entering the orbital optimizations.
