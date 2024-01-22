@@ -37,3 +37,4 @@
 - `ANGS` Selects Angstorm units
 - `noiter` in order to turn o↵ the standard Hartree-Fock SCF process before entering the orbital optimizations.
 - `rocis` Control of restricted-open-shell CIS
+- `EnGrad` specifying ’density relaxed’ is unnecessary. However, it is needed when calculating properties without the gradient.
