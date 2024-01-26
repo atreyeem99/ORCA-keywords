@@ -40,4 +40,4 @@
 - `EnGrad` specifying ’density relaxed’ is unnecessary. However, it is needed when calculating properties without the gradient.
 - `SymRelaxSCF` Indicates whether orbital occupation numbers of each irreducible representation are allowed to change during SCF
 - `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
-- 'PRINTMOS` Prints MO coeffecients
+- `PRINTMOS` Prints MO coeffecients
