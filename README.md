@@ -41,3 +41,4 @@
 - `SymRelaxSCF` Indicates whether orbital occupation numbers of each irreducible representation are allowed to change during SCF
 - `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
 - `PRINTMOS` Prints MO coeffecients
+- `NOPRINTMOS` Suppress printing of MO coefficients
