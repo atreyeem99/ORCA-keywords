@@ -42,3 +42,5 @@
 - `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
 - `PRINTMOS` Prints MO coeffecients
 - `NOPRINTMOS` Suppress printing of MO coefficients
+-  `XYZFILE`  Produce an XYZ coordinate file
+-  `PDBFILE`  Produce a PDB file
