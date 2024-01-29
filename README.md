@@ -44,4 +44,4 @@
 - `NOPRINTMOS` Suppress printing of MO coefficients
 -  `XYZFILE`  Produce an XYZ coordinate file
 -  `PDBFILE`  Produce a PDB file
--  `Printbasis` Print the basis set in input format
+-  `Printbasis` Print the basis set in input format.
