@@ -45,3 +45,4 @@
 -  `XYZFILE`  Produce an XYZ coordinate file
 -  `PDBFILE`  Produce a PDB file
 -  `Printbasis` Print the basis set in input format.
+-  `FLOAT` Set storage format for numbers to single precision (SCF, RI-MP2, CIS, CIS(D), MDCI)
