@@ -47,3 +47,4 @@
 -  `Printbasis` Print the basis set in input format.
 -  `FLOAT` Set storage format for numbers to single precision (SCF, RI-MP2, CIS, CIS(D), MDCI
 -  `UNO` Produce UHF natural orbitals
+-  `ACCURACY` accuracy, value for --acc, default is ORCA’s accuracy x 1.e6
