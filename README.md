@@ -50,3 +50,4 @@
 -  `ACCURACY` accuracy, value for --acc, default is ORCA’s accuracy x 1.e6
 -  `MaxDim 3` Davidson expansion space = MaxDim * NRoots
 -  `ALPB(water)` use implicit solvation, solvent water,  ALPB with water  can also be defined in the xtb block
+-  `orbOpt true` turns on the orbital optimization
