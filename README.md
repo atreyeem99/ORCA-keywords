@@ -52,3 +52,4 @@
 -  `ALPB(water)` use implicit solvation, solvent water,  ALPB with water  can also be defined in the xtb block
 -  `orbOpt true` turns on the orbital optimization
 -  `ALLPOP` Turns on all population analysis
+-  `MULLIKEN` turns on the Mulliken analysis
