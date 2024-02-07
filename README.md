@@ -53,3 +53,4 @@
 -  `orbOpt true` turns on the orbital optimization
 -  `ALLPOP` Turns on all population analysis
 -  `MULLIKEN` turns on the Mulliken analysis
+-  `Loewdin` Turns on the Loewdin analysis
