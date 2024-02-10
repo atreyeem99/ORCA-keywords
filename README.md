@@ -56,3 +56,4 @@
 -  `Loewdin` Turns on the Loewdin analysis
 -  `Noloewdin` Turns off the Loewdin analysis
 -  `PATOM` Selects the polarized atoms guess
+-  `HUECKEL` Selects the extended Hückel guess
