@@ -57,3 +57,4 @@
 -  `Noloewdin` Turns off the Loewdin analysis
 -  `PATOM` Selects the polarized atoms guess
 -  `HUECKEL` Selects the extended Hückel guess
+-  `DecontractAuxJ` Decontract the AuxJ basis set
