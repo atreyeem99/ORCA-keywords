@@ -59,3 +59,4 @@
 -  `HUECKEL` Selects the extended Hückel guess
 -  `DecontractAuxJ` Decontract the AuxJ basis set
 -  `UCFLOAT` Use float storage in the matrix containers without data compression
+-  `NORMALPRINT` Selects the normal output
