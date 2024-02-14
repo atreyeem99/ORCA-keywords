@@ -60,3 +60,4 @@
 -  `DecontractAuxJ` Decontract the AuxJ basis set
 -  `UCFLOAT` Use float storage in the matrix containers without data compression
 -  `NORMALPRINT` Selects the normal output
+-  `CHEAPINTS` Use the cheap integral feature in direct SCF calculations
