@@ -62,3 +62,4 @@
 -  `NORMALPRINT` Selects the normal output
 -  `CHEAPINTS` Use the cheap integral feature in direct SCF calculations
 -  `NOCHEAPINTS` Turn that feature o↵
+-  `READINTS` Reading of two electron integrals on
