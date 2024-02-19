@@ -64,3 +64,4 @@
 -  `NOCHEAPINTS` Turn that feature o↵
 -  `READINTS` Reading of two electron integrals on
 -  `AIM` Produce a WFN file
+-  `MAYER` Turns on the Mayer analysis
