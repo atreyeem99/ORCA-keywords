@@ -65,3 +65,4 @@
 -  `READINTS` Reading of two electron integrals on
 -  `AIM` Produce a WFN file
 -  `MAYER` Turns on the Mayer analysis
+-  `NOMAYER` Turns off the Mayer analysis
