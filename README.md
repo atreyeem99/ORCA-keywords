@@ -66,3 +66,4 @@
 -  `AIM` Produce a WFN file
 -  `MAYER` Turns on the Mayer analysis
 -  `NOMAYER` Turns off the Mayer analysis
+-  `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
