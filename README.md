@@ -68,3 +68,4 @@
 -  `NOMAYER` Turns off the Mayer analysis
 -  `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
 -  `REL` Control of relativistic options
+- `EPRNMR` Control of EPR and NMR calculations
