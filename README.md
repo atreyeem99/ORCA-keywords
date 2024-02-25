@@ -70,3 +70,4 @@
 -  `REL` Control of relativistic options
 - `EPRNMR` Control of EPR and NMR calculations
 - `PLOTS` Control of plot generation
+- `ELPROP` Control of electric property calculations
