@@ -73,3 +73,4 @@
 - `ELPROP` Control of electric property calculations
 - `MCRPA` Control CASSCF linear response calculations
 - `CIM` Control of Cluster In Molecules calculations
+- `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
