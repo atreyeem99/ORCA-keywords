@@ -81,3 +81,4 @@
 - `SPLITJ` Select the efficient Split-J procedure for the calculation of the Coulomb matrix in non-hybrid DFT (rarely used)
 - `RI-JK` Sets the flag for the efficient RI algorithm for Coulomb and Exchange. Works for SCF (HF/DFT) energies and gradients. Works direct or conventional.
 - `SPLIT-RI-J` Select the efficient Split-RI-J procedure for the improved evaluation of the RI- approximation to the Coulomb-matrix
+- `NoSplit-RI-J` Turns the Split-RI-J feature o↵ (but does not set the RI flag to false!)
