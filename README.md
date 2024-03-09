@@ -82,3 +82,4 @@
 - `RI-JK` Sets the flag for the efficient RI algorithm for Coulomb and Exchange. Works for SCF (HF/DFT) energies and gradients. Works direct or conventional.
 - `SPLIT-RI-J` Select the efficient Split-RI-J procedure for the improved evaluation of the RI- approximation to the Coulomb-matrix
 - `NoSplit-RI-J` Turns the Split-RI-J feature o↵ (but does not set the RI flag to false!)
+- `RI-J-XC` Turn on RI for the Coulomb term and TRIX,RI the XC terms. This saves time when the XC integration is significant but intro-duces another basis set incompleteness error. (rarely used)
