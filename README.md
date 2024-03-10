@@ -83,3 +83,4 @@
 - `SPLIT-RI-J` Select the efficient Split-RI-J procedure for the improved evaluation of the RI- approximation to the Coulomb-matrix
 - `NoSplit-RI-J` Turns the Split-RI-J feature o↵ (but does not set the RI flag to false!)
 - `RI-J-XC` Turn on RI for the Coulomb term and TRIX,RI the XC terms. This saves time when the XC integration is significant but intro-duces another basis set incompleteness error. (rarely used)
+- `PATOM` Selects the polarized atoms guess
