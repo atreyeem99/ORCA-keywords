@@ -84,5 +84,5 @@
 - `NoSplit-RI-J` Turns the Split-RI-J feature o↵ (but does not set the RI flag to false!)
 - `RI-J-XC` Turn on RI for the Coulomb term and TRIX,RI the XC terms. This saves time when the XC integration is significant but intro-duces another basis set incompleteness error. (rarely used)
 - `PATOM` Selects the polarized atoms guess
-- 'PMODEL` Selects the model potential guess
-- 'decorr` for double hybrid functional
+- `PMODEL` Selects the model potential guess
+- `decorr` for double hybrid functional
