@@ -86,3 +86,4 @@
 - `PATOM` Selects the polarized atoms guess
 - `PMODEL` Selects the model potential guess
 - `decorr` for double hybrid functional
+- `FIC-DDCI3` Fully internally contracted DDCI3
