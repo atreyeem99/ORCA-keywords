@@ -90,3 +90,4 @@
 - `SORCI` Spectroscopy oriented CI
 - `AUTOSTART` Try to start from the existing GBW file of the same name as the present one (only for single-point calculations)
 - `IORAmm/RI`Selects the scalar relativistic IORA mm (modified metric) Hamiltonian in RI approximation
+- `STRONGSCF` Selects strong SCF convergence
