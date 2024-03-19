@@ -92,3 +92,4 @@
 - `IORAmm/RI`Selects the scalar relativistic IORA mm (modified metric) Hamiltonian in RI approximation
 - `STRONGSCF` Selects strong SCF convergence
 - `ForceConv` Force convergence: do not continue with the calculation, if the SCF did not fully converge.
+- `IgnoreConv` Ignore convergence: continue with the calculation, even if the SCF wavefunction is far from convergence.
