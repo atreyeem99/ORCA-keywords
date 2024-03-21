@@ -94,3 +94,4 @@
 - `ForceConv` Force convergence: do not continue with the calculation, if the SCF did not fully converge.
 - `IgnoreConv` Ignore convergence: continue with the calculation, even if the SCF wavefunction is far from convergence.
 - `SlowConv` Selects appropriate SCF converger criteria for difficult cases. Most transition metal complexes fall into this category.
+- `EasyConv` Assumes no convergence problems.
