@@ -98,3 +98,4 @@
 - `VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
 - `SOMF(1X)` Invokes the SOMF(1X) treatment of the spin-orbit coupling operator.
 ` `RI-SOMF(1X)` Invokes the SOMF(1X) treatment of the spin-orbit coupling operator, with RI four the Coulomb part.
+` `VEFF-SOC` Invokes the VEFF-SOC treatment of the spin-orbit coupling operator.
