@@ -102,3 +102,4 @@
 - `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
 - `AMFI-A` Invokes the AMFI-A treatment of the spin-orbit coupling operator.
 - `ZEF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
+- `modetype normal` normal modes of vibration: PES
