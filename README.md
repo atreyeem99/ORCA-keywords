@@ -105,3 +105,4 @@
 - `modetype normal` normal modes of vibration: PES
 - `MList` provides the list of the normal modes to be scanned.
 - `RSteps and LSteps` specify the number of steps in positive and negative direction along each mode in the list.
+- `HessName` parameter specifies the name of the file which contains nuclear Hessian matrix calculated in the frequency run.
