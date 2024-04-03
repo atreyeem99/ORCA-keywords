@@ -106,3 +106,4 @@
 - `MList` provides the list of the normal modes to be scanned.
 - `RSteps and LSteps` specify the number of steps in positive and negative direction along each mode in the list.
 - `HessName` parameter specifies the name of the file which contains nuclear Hessian matrix calculated in the frequency run.
+- `DOHT TRUE` here, because the first transition of benzene is symmetry forbidden with an oscillator strength of 2e-6 and thus all the intensity comes from vibronic coupling
