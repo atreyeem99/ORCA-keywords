@@ -108,3 +108,4 @@
 - `HessName` parameter specifies the name of the file which contains nuclear Hessian matrix calculated in the frequency run.
 - `DOHT TRUE` here, because the first transition of benzene is symmetry forbidden with an oscillator strength of 2e-6 and thus all the intensity comes from vibronic coupling
 - `ESD(FLUOR)` Fluorescence rate calculation
+- `LINEW` It is common that the experimental lineshape changes depending on the set up and it can be controlled from the LINEW flag
