@@ -109,3 +109,4 @@
 - `DOHT TRUE` here, because the first transition of benzene is symmetry forbidden with an oscillator strength of 2e-6 and thus all the intensity comes from vibronic coupling
 - `ESD(FLUOR)` Fluorescence rate calculation
 - `LINEW` It is common that the experimental lineshape changes depending on the set up and it can be controlled from the LINEW flag
+- `VOIGT` The default lineshape for resonant Raman is VOIGT.
