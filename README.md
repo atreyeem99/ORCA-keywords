@@ -110,4 +110,4 @@
 - `ESD(FLUOR)` Fluorescence rate calculation
 - `LINEW` It is common that the experimental lineshape changes depending on the set up and it can be controlled from the LINEW flag
 - `VOIGT` The default lineshape for resonant Raman is VOIGT.
-- ` SPECRES` 
+- `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
