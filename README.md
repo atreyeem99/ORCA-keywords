@@ -112,4 +112,4 @@
 - `VOIGT` The default lineshape for resonant Raman is VOIGT.
 - `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
 - `DELTA` lineshape might lead to a correlation function that oscillates forever, so please take care with that option.
-- `PRINTLEVEL` can be set to HIGH in order to print more details.
+- `PRINTLEVEL` can be set to HIGH in order to print more details. 1,2,3,4
