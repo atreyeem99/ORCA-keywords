@@ -114,3 +114,4 @@
 - `DELTA` lineshape might lead to a correlation function that oscillates forever, so please take care with that option.
 - `PRINTLEVEL` can be set to HIGH in order to print more details. 1,2,3,4
 - `ESD(PHOS)` phosphorescence calculation
+- `ESD(ISC)` intersystem crossing calculation
