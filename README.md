@@ -115,3 +115,4 @@
 - `PRINTLEVEL` can be set to HIGH in order to print more details. 1,2,3,4
 - `ESD(PHOS)` phosphorescence calculation
 - `ESD(ISC)` intersystem crossing calculation
+-`RI-SOMF(1X)` option for the spin-orbit coupling integrals, but any of the methods available can be used
