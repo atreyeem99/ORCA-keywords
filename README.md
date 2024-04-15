@@ -116,3 +116,4 @@
 - `ESD(PHOS)` phosphorescence calculation
 - `ESD(ISC)` intersystem crossing calculation
 -`RI-SOMF(1X)` option for the spin-orbit coupling integrals, but any of the methods available can be used
+- you can control the SROOT and TROOT flags to select which are the singlet and triplet you want to compute
