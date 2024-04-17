@@ -117,3 +117,4 @@
 - `ESD(ISC)` intersystem crossing calculation
 -`RI-SOMF(1X)` option for the spin-orbit coupling integrals, but any of the methods available can be used
 - `SROOT` and `TROOT` you can control the SROOT and TROOT flags to select which are the singlet and triplet you want to compute
+- `RRSLINEW` The spectral linewidth in this case is independent (but not the lineshape) and must be set with the RRSLINEW keyword, being 10 cm 1 by default.
