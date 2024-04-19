@@ -119,3 +119,4 @@
 - `SROOT` and `TROOT` you can control the SROOT and TROOT flags to select which are the singlet and triplet you want to compute
 - `RRSLINEW` The spectral linewidth in this case is independent (but not the lineshape) and must be set with the RRSLINEW keyword, being 10 cm 1 by default.
 - `Delta` The DELTA lineshape might lead to a correlation function that oscillates forever, so please take care with that option.
+- `FASTDER` Use the fast derivatives algorithm?
