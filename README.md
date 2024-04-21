@@ -121,3 +121,4 @@
 - `Delta` The DELTA lineshape might lead to a correlation function that oscillates forever, so please take care with that option.
 - `FASTDER` Use the fast derivatives algorithm?
 - `Random`Always take the same seed for start for localization
+- `TDIP` ustom transition dipole
