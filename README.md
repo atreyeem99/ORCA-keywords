@@ -123,3 +123,4 @@
 - `Random`Always take the same seed for start for localization
 - `TDIP` ustom transition dipole
 - `USEJ` Consider Duschinsky rotations
+- `USEB` Rotate the initial state?
