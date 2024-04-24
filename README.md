@@ -124,3 +124,4 @@
 - `TDIP` ustom transition dipole
 - `USEJ` Consider Duschinsky rotations
 - `USEB` Rotate the initial state?
+- `LASERE` The laser energy for RR
