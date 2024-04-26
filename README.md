@@ -126,3 +126,4 @@
 - `USEB` Rotate the initial state?
 - `LASERE` The laser energy for RR
 - `DELRE` Custom energy difference
+- `TDIP` Custom transition dipole
