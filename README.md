@@ -127,3 +127,4 @@
 - `LASERE` The laser energy for RR
 - `DELRE` Custom energy difference
 - `TDIP` Custom transition dipole
+- `COORSYS` Coordinate system for the normal modes
