@@ -132,3 +132,4 @@
 - `STEPSCALING` A number for scaling the steps
 - `STEPCONSTR` A list of atoms that will not be moved
 - `sTDA` Use sTDA during derivatives
+- `sameFrreq` use DO method and J=1.
