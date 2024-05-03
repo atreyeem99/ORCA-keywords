@@ -133,3 +133,4 @@
 - `STEPCONSTR` A list of atoms that will not be moved
 - `sTDA` Use sTDA during derivatives
 - `sameFrreq` use DO method and J=1.
+- `UF_DELE` Energy difference for updated freq.
