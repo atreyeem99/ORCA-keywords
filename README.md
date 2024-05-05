@@ -135,3 +135,4 @@
 - `sameFrreq` use DO method and J=1.
 - `UF_DELE` Energy difference for updated freq.
 -`CONVDER` Convert derivatives between state
+- `Lines` The lineshape function
