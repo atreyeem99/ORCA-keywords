@@ -136,3 +136,4 @@
 - `UF_DELE` Energy difference for updated freq.
 -`CONVDER` Convert derivatives between state
 - `Lines` The lineshape function
+- `SCALING` caling for frequencies
