@@ -137,3 +137,4 @@
 -`CONVDER` Convert derivatives between state
 - `Lines` The lineshape function
 - `SCALING` caling for frequencies
+- `MO("CO-4.plt",4,0)` is to be understood as follows: there is an MO to be evaluated on a grid and the output is stored in the file ”CO-4.plt”.
