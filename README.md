@@ -139,3 +139,4 @@
 - `SCALING` caling for frequencies
 - `MO("CO-4.plt",4,0)` is to be understood as follows: there is an MO to be evaluated on a grid and the output is stored in the file ”CO-4.plt”.
 - `Skeleton` Draw Skeleton of the molecule of those atoms that are in or close to the cut
+- `VIRT` Localize the virtual space
