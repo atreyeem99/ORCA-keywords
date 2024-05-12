@@ -142,3 +142,4 @@
 - `VIRT` Localize the virtual space
 - `TOL` absolute convergence tolerance for the localization sum
 - `T_Bond` Thresh that classifies orbitals in bond-like at the printing
+- `T_Strong` Thresh that classifies orbitals into strongly-localized at the printing
