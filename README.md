@@ -144,3 +144,4 @@
 - `T_Bond` Thresh that classifies orbitals in bond-like at the printing
 - `T_Strong` Thresh that classifies orbitals into strongly-localized at the printing
 - `OCC` Localize the occupied space
+- `NMRREF[X]` Reference value for the absolute shielding of element X used in the relative shifts of the simulated spectrum.
