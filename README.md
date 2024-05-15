@@ -145,3 +145,4 @@
 - `T_Strong` Thresh that classifies orbitals into strongly-localized at the printing
 - `OCC` Localize the occupied space
 - `NMRREF[X]` Reference value for the absolute shielding of element X used in the relative shifts of the simulated spectrum.
+- `NMRCoal` If two lines are closer than this threshold (given in Hz) then the module will coalesce the lines to one line with double intensity.
