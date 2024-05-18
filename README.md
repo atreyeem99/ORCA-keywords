@@ -145,6 +145,7 @@
 - `T_Strong` Thresh that classifies orbitals into strongly-localized at the printing
 - `OCC` Localize the occupied space
 - `NMRREF[X]` Reference value for the absolute shielding of element X used in the relative shifts of the simulated spectrum.
-- `NMRCoal` If two lines are closer than this threshold (given in Hz) then the module will coalesce the lines to one line with double intensity.
+- `NMRCoal` If two lines are closer than this threshold (given in Hz) then the module will coalesce the lines to one line with double intensity. threshold for merged lines [Hz] (default 1)
 - `NMRSpecFreq` The NMR spectrometer frequency is decisive for the looks of the spectrum as shieldings are given in ppm and couplings are given in Hz.
 - `NMREquiv` lists of NMR-equicalent nuclei
+- `Decontract` Decontract all (orbital and auxiliary) basis sets
