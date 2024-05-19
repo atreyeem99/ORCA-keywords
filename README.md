@@ -149,3 +149,4 @@
 - `NMRSpecFreq` The NMR spectrometer frequency is decisive for the looks of the spectrum as shieldings are given in ppm and couplings are given in Hz.
 - `NMREquiv` lists of NMR-equicalent nuclei
 - `Decontract` Decontract all (orbital and auxiliary) basis sets
+- `EXTREMESCF` Selects “extreme” convergence. All thresholds are practically reduced to numerical precision of the computer. Only for benchmarking (very expensive).
