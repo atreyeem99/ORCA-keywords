@@ -152,3 +152,4 @@
 - `EXTREMESCF` Selects “extreme” convergence. All thresholds are practically reduced to numerical precision of the computer. Only for benchmarking (very expensive).
 - `SCFCONVn` Selects energy convergence check and sets ET ol to 10 n (n = 6–10). Also selects appropriate thresh, tcut, and bfcut values.
 - `LOOSEOPT` Selects loose optimization convergence
+- `KDIIS` Turns Kollmar’s DIIS on
