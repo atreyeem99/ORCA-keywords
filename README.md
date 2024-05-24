@@ -154,3 +154,4 @@
 - `LOOSEOPT` Selects loose optimization convergence
 - `KDIIS` Turns Kollmar’s DIIS on
 - `TRAH` Turns trust-region augmented Hessian SCF on
+- `SOSCF` Turns SOSCF on
