@@ -156,3 +156,4 @@
 - `TRAH` Turns trust-region augmented Hessian SCF on
 - `SOSCF` Turns SOSCF on
 - `NOLSHIFT` Turns level shifting o↵
+- `CIM` Cluster-In-Molecule calculation
