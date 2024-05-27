@@ -157,3 +157,4 @@
 - `SOSCF` Turns SOSCF on
 - `NOLSHIFT` Turns level shifting o↵
 - `CIM` Cluster-In-Molecule calculation
+- `MD` Molecular dynamic simulation
