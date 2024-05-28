@@ -158,3 +158,4 @@
 - `NOLSHIFT` Turns level shifting o↵
 - `CIM` Cluster-In-Molecule calculation
 - `MD` Molecular dynamic simulation
+- `UseSym` Turns on the use of molecular symmetry (see section 6.6). THIS IS VERY RUDIMENTARY! 
