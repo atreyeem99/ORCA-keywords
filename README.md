@@ -160,3 +160,4 @@
 - `MD` Molecular dynamic simulation
 - `UseSym` Turns on the use of molecular symmetry (see section 6.6). THIS IS VERY RUDIMENTARY! 
 - `FOD` FOD analysis (see 9.7.8.2) employing default settings (TPSS/def2-TZVP,TightSCF, SmearTemp = 5000 K)
+- `CIM` Cluster-In-Molecule calculation
