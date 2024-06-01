@@ -162,3 +162,4 @@
 - `FOD` FOD analysis (see 9.7.8.2) employing default settings (TPSS/def2-TZVP,TightSCF, SmearTemp = 5000 K)
 - `CIM` Cluster-In-Molecule calculation
 - `MP2` Selects Method=HF and DoMP2=true
+- `SCS-MP2` Spin-component scaled MP2
