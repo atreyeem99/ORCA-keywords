@@ -163,3 +163,4 @@
 - `CIM` Cluster-In-Molecule calculation
 - `MP2` Selects Method=HF and DoMP2=true
 - `SCS-MP2` Spin-component scaled MP2
+- `COPT` Optimization in Cartesian coordinates
