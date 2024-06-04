@@ -165,3 +165,4 @@
 - `SCS-MP2` Spin-component scaled MP2
 - `COPT` Optimization in Cartesian coordinates
 - `GDIIS-COPT` COPT using GDIIS
+- `MP2-F12` MP2 with F12 correction
