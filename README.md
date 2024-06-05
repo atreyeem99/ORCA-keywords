@@ -166,3 +166,4 @@
 - `COPT` Optimization in Cartesian coordinates
 - `GDIIS-COPT` COPT using GDIIS
 - `MP2-F12` MP2 with F12 correction
+- `CEPA/1` Coupled-electron-pair approximation
