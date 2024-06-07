@@ -168,3 +168,4 @@
 - `MP2-F12` MP2 with F12 correction
 - `CEPA/1` Coupled-electron-pair approximation
 - `DecontractBas` Decontract the basis set. If the basis set arises from general contraction, duplicate primitives will be removed.
+- `IORA/RI` Selects the scalar relativistic IORA Hamiltonian in RI approximation
