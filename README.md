@@ -170,3 +170,4 @@
 - `DecontractBas` Decontract the basis set. If the basis set arises from general contraction, duplicate primitives will be removed.
 - `IORA/RI` Selects the scalar relativistic IORA Hamiltonian in RI approximation
 - `NOFINALGRIDX` Turn o↵ the final grid in COSX (not recommended)
+- `NOTRAH` Turns trust-region augmented Hessian SCF off
