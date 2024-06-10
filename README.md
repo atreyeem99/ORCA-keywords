@@ -171,3 +171,4 @@
 - `IORA/RI` Selects the scalar relativistic IORA Hamiltonian in RI approximation
 - `NOFINALGRIDX` Turn o↵ the final grid in COSX (not recommended)
 - `NOTRAH` Turns trust-region augmented Hessian SCF off
+- `VEFF-SOC` Invokes the VEFF-SOC treatment of the spin-orbit coupling operator.
