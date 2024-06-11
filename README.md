@@ -172,3 +172,4 @@
 - `NOFINALGRIDX` Turn o↵ the final grid in COSX (not recommended)
 - `NOTRAH` Turns trust-region augmented Hessian SCF off
 - `VEFF-SOC` Invokes the VEFF-SOC treatment of the spin-orbit coupling operator.
+- `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
