@@ -175,3 +175,4 @@
 - `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
 - `AMFI-A` Invokes the AMFI-A treatment of the spin-orbit coupling operator.
 - `ZEFF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
+- `FRACOCC` Turns the fractional occupation option on (FOD is always calculated in this case)
