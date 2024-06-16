@@ -177,3 +177,4 @@
 - `ZEFF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
 - `FRACOCC` Turns the fractional occupation option on (FOD is always calculated in this case)
 - `NBO` Turns on the interface for the NPA plus NBO analysis with the GENNBO pro- gram
+- `NOSMEAR` Turn occupation number smearing off
