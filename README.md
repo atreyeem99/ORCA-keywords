@@ -180,3 +180,4 @@
 - `NOSMEAR` Turn occupation number smearing off
 - `DKH` Selects the scalar relativistic Douglas– Kroll–Hess Hamiltonian of 2nd order
 - `Decontract` Decontract all (orbital and auxiliary) basis sets
+- `CDOUBLE` Use double storage in the matrix containers with data compression
