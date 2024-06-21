@@ -182,3 +182,4 @@
 - `Decontract` Decontract all (orbital and auxiliary) basis sets
 - `CDOUBLE` Use double storage in the matrix containers with data compression
 -  VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
+-  `NoTrah` Turns trust-region augmented Hessian SCF off
