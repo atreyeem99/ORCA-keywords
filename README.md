@@ -183,3 +183,4 @@
 - `CDOUBLE` Use double storage in the matrix containers with data compression
 -  VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
 -  `NoTrah` Turns trust-region augmented Hessian SCF off
+-  `SCS-PBE-QIDH` spin-component scaled version of PBE-QIDH optimized for excited states by Casanova-Páez and Goerigk (SCS only applies to the CIS(D) component)
