@@ -184,3 +184,4 @@
 -  VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
 -  `NoTrah` Turns trust-region augmented Hessian SCF off
 -  `SCS-PBE-QIDH` spin-component scaled version of PBE-QIDH optimized for excited states by Casanova-Páez and Goerigk (SCS only applies to the CIS(D) component)
+- `wB97X-D2` Chai and Head-Gordon’s wB97X-2(TQZ) range-separated GGA-based DHDF with spin-component scaling
