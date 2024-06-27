@@ -188,3 +188,4 @@
 - `nprocs` processors
 - `Zoom-NEB (Z-NEB)` method has been included this implementation, where the objective of the method is to locate a saddle point more accurately with a better resolution compared to CI-NEB calculations.
 - `CI-NEB` calculation is carried out to obtain a rough convergence towards the MEP
+- `LOOSE-NEB-TS` corresponds to the actual NEB-TS defaults,
