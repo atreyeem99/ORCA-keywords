@@ -189,3 +189,4 @@
 - `Zoom-NEB (Z-NEB)` method has been included this implementation, where the objective of the method is to locate a saddle point more accurately with a better resolution compared to CI-NEB calculations.
 - `CI-NEB` calculation is carried out to obtain a rough convergence towards the MEP
 - `LOOSE-NEB-TS` corresponds to the actual NEB-TS defaults,
+- `EW-CI-NEB` method is used to partially converge to the MEP and hence saddle point, i.e., the optimization of the images along the MEP is halted once the climbing image is converged to a prescribed tolerance.
