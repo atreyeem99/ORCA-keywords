@@ -191,3 +191,4 @@
 - `LOOSE-NEB-TS` corresponds to the actual NEB-TS defaults,
 - `EW-CI-NEB` method is used to partially converge to the MEP and hence saddle point, i.e., the optimization of the images along the MEP is halted once the climbing image is converged to a prescribed tolerance.
 - `Almlöf` Hessian matrix is used, the curvature at the CI is estimated by using a finite diverence approximation
+- `IDPP_ksp` spring constant used to scale the spring force parallel to the path.
