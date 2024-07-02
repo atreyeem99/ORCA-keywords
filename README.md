@@ -193,3 +193,4 @@
 - `Almlöf` Hessian matrix is used, the curvature at the CI is estimated by using a finite diverence approximation
 - `IDPP_ksp` spring constant used to scale the spring force parallel to the path.
 - `IDPP_Alpha` multiplicative factor to scale the size of the step ineach opt. cycle
+- `IDPP_ksp`  spring constant used to scale the spring force parallel to the path.
