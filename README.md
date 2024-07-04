@@ -195,3 +195,4 @@
 - `IDPP_Alpha` multiplicative factor to scale the size of the step ineach opt. cycle
 - `IDPP_ksp`  spring constant used to scale the spring force parallel to the path.
 - `EThresh value` Energy threshold up to which CSFs are included (in eV)
+- `Beta1 value` Constant part of J integral parameter beta
