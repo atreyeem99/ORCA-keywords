@@ -197,3 +197,4 @@
 - `EThresh value` Energy threshold up to which CSFs are included (in eV)
 - `Beta1 value` Constant part of J integral parameter beta
 - `triplets true` Calculate singlet-triplet excitations (default: singlet-singlet)
+- `alpha1 value` Constant part of K integral parameter alpha
