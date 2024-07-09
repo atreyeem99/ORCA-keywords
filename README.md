@@ -200,3 +200,4 @@
 - `alpha1 value` Constant part of K integral parameter alpha
 - `PTLimit Value` Energy threshold up to which CSFs beyond EThresh may be selected (in eV)
 - `NEB-IDPP` IDPP (Initial Path) NEB calculation - for estimation of path length
+- `NPTS_Interpol` Number of abscissa in cubic polynomial interpolation
