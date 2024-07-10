@@ -201,3 +201,4 @@
 - `PTLimit Value` Energy threshold up to which CSFs beyond EThresh may be selected (in eV)
 - `NEB-IDPP` IDPP (Initial Path) NEB calculation - for estimation of path length
 - `NPTS_Interpol` Number of abscissa in cubic polynomial interpolation
+- `Free_End false` se free-end NEB. In this case the NImages corresponds to the total number of images.
