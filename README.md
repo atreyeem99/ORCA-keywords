@@ -202,3 +202,4 @@
 - `NEB-IDPP` IDPP (Initial Path) NEB calculation - for estimation of path length
 - `NPTS_Interpol` Number of abscissa in cubic polynomial interpolation
 - `Free_End false` se free-end NEB. In this case the NImages corresponds to the total number of images.
+- `Fix_center True Fix_center specifies whether the centroid of each image should be constrained to the origin of the coordinate system or to the center of each image individually.
