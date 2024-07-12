@@ -204,3 +204,4 @@
 - `Free_End false` se free-end NEB. In this case the NImages corresponds to the total number of images.
 - `Fix_center True Fix_center specifies whether the centroid of each image should be constrained to the origin of the coordinate system or to the center of each image individually.
 - `Mode sTDA` Invokes a sTDA calculation
+- `axstda` Fock exchange parameter used in sTDA/sTD-DFT calculation (for range-separated hybrids)
