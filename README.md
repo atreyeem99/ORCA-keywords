@@ -205,3 +205,4 @@
 - `Fix_center True Fix_center specifies whether the centroid of each image should be constrained to the origin of the coordinate system or to the center of each image individually.
 - `Mode sTDA` Invokes a sTDA calculation
 - `axstda` Fock exchange parameter used in sTDA/sTD-DFT calculation (for range-separated hybrids)
+- `ICE-CI` is either a highly robust high accuracy method for very small systems or a “building block” for large systems
