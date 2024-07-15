@@ -206,3 +206,4 @@
 - `Mode sTDA` Invokes a sTDA calculation
 - `axstda` Fock exchange parameter used in sTDA/sTD-DFT calculation (for range-separated hybrids)
 - `ICE-CI` is either a highly robust high accuracy method for very small systems or a “building block” for large systems
+- `ICE-CI method is extremely parallel to the full CI curve at all distances.
