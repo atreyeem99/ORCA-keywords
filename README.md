@@ -210,3 +210,4 @@
 - `UseMP2nat` The use of MP2 natural orbitals is requested by choosing UseMP2nat true inside the %ice block.
 - `AUTOCI` module is a replacement of the orca mdci for cases, where manual implementation of the method would be tedious or practically impossible.
 - `RHF, ROHF, UHF and CASSCF` and offers CI and related methods.
+- `(FIC-MRCI)` uses the same internal contraction scheme as the FIC-NEVPT2 (aka PC-NEVPT2).
