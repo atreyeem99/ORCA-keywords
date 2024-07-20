@@ -211,3 +211,4 @@
 - `AUTOCI` module is a replacement of the orca mdci for cases, where manual implementation of the method would be tedious or practically impossible.
 - `RHF, ROHF, UHF and CASSCF` and offers CI and related methods.
 - `(FIC-MRCI)` uses the same internal contraction scheme as the FIC-NEVPT2 (aka PC-NEVPT2).
+- `In case of ACPF and AQCC` the lambda factor explicitly depends on the number of correlated electrons, Ne .
