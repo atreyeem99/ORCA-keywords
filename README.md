@@ -212,3 +212,4 @@
 - `RHF, ROHF, UHF and CASSCF` and offers CI and related methods.
 - `(FIC-MRCI)` uses the same internal contraction scheme as the FIC-NEVPT2 (aka PC-NEVPT2).
 - `In case of ACPF and AQCC` the lambda factor explicitly depends on the number of correlated electrons, Ne .
+- `The fic-MRCC` module can be started by specifying the CIType keyword in the %autoci block or by adding fic-MRCC to the simple input line of an ORCA
