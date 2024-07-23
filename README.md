@@ -214,3 +214,4 @@
 - `In case of ACPF and AQCC` the lambda factor explicitly depends on the number of correlated electrons, Ne .
 - `The fic-MRCC` module can be started by specifying the CIType keyword in the %autoci block or by adding fic-MRCC to the simple input line of an ORCA
 - `casscf_nel` 6 number of active space electrons
+- `casscf_weights[0]` = 0.5,0.2,0.2,0.2 # singlet weights
