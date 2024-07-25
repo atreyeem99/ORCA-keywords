@@ -216,3 +216,4 @@
 - `casscf_nel` 6 number of active space electrons
 - `casscf_weights[0]` = 0.5,0.2,0.2,0.2 # singlet weights
 - `casscf_mult` 1,3 multiplicities singlet and triplet
+- `FOD` analysis (see Fractional Occupation Number Weighted Electron Density (FOD)) employing default settings (TPSS/def2-TZVP, TightSCF, SmearTemp = 5000 K)
