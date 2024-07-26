@@ -217,3 +217,4 @@
 - `casscf_weights[0]` = 0.5,0.2,0.2,0.2 # singlet weights
 - `casscf_mult` 1,3 multiplicities singlet and triplet
 - `FOD` analysis (see Fractional Occupation Number Weighted Electron Density (FOD)) employing default settings (TPSS/def2-TZVP, TightSCF, SmearTemp = 5000 K)
+- `L-SR1` is set by default for DeltaSCF
