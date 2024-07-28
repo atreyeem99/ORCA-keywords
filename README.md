@@ -219,3 +219,4 @@
 - `FOD` analysis (see Fractional Occupation Number Weighted Electron Density (FOD)) employing default settings (TPSS/def2-TZVP, TightSCF, SmearTemp = 5000 K)
 - `L-SR1` is set by default for DeltaSCF
 - `NWORKERS AUTO` # define the number of workers (default AUTO).AUTO for an automatic ideal assignment, or give any number multiple of 4 (number of temperatures).
+- `FREEHETEROATOMS FALSE` # free all atoms besides H and C.
