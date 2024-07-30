@@ -221,3 +221,4 @@
 - `NWORKERS AUTO` # define the number of workers (default AUTO).AUTO for an automatic ideal assignment, or give any number multiple of 4 (number of temperatures).
 - `FREEHETEROATOMS FALSE` # free all atoms besides H and C.
 - `QDPT` properties. These are properties that are calculated by quasi-degenerate perturbation theory (QDPT).
+- `bt-PNO-EOM-CCSD` back-transformed PNO approximation
