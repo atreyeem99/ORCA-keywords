@@ -222,3 +222,4 @@
 - `FREEHETEROATOMS FALSE` # free all atoms besides H and C.
 - `QDPT` properties. These are properties that are calculated by quasi-degenerate perturbation theory (QDPT).
 - `bt-PNO-EOM-CCSD` back-transformed PNO approximation
+- `TNOSCALES` 10.0 #TNO truncation scale for strong triples, TNOSCALES*TCutTNO. Default setting is 10.0
