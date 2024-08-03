@@ -225,3 +225,4 @@
 - `TNOSCALES` 10.0 #TNO truncation scale for strong triples, TNOSCALES*TCutTNO. Default setting is 10.0
 - `orca_prop` Calculation of molecular properties
 - `QUICKDOCK` simple keyord to set DOCKLEVEL QUICK
+- `LINEW and INLINEW` control the LINES function used in the calculation of the correlation function and are related to the lifetime of intermediate states and energy disordering.
