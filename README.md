@@ -226,3 +226,4 @@
 - `orca_prop` Calculation of molecular properties
 - `QUICKDOCK` simple keyord to set DOCKLEVEL QUICK
 - `LINEW and INLINEW` control the LINES function used in the calculation of the correlation function and are related to the lifetime of intermediate states and energy disordering.
+- `orca_cclib` Precalculation of one particle coupling coefficients for ACCCI
