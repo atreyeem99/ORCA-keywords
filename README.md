@@ -228,3 +228,4 @@
 - `LINEW and INLINEW` control the LINES function used in the calculation of the correlation function and are related to the lifetime of intermediate states and energy disordering.
 - `orca_cclib` Precalculation of one particle coupling coefficients for ACCCI
 - geometry used in the input file should correspond to that of the FINAL state, specified through the `ISCFSHESSIAN` flag
+- You can select any of the methods described earlier to obtain the Potential Energy Surface (PES) by setting the appropriate `HESSFLAG`
