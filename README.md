@@ -231,3 +231,4 @@
 - You can select any of the methods described earlier to obtain the Potential Energy Surface (PES) by setting the appropriate `HESSFLAG`
 - `casscf_nroots 4,2` # four singlets, two triplets
 - `casscf_weights[0] ` = 0.5,0.2,0.2,0.2 # singlet weights
+- `casscf_weights` = 0.7,0.3 triplet weights
