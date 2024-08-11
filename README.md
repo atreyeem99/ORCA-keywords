@@ -233,3 +233,4 @@
 - `casscf_weights[0] ` = 0.5,0.2,0.2,0.2 # singlet weights
 - `casscf_weights` = 0.7,0.3 triplet weights
 - `casscf_mult 1,3` multiplicities singlet and triplet
+- `casscf_norb 6` number of active orbitals
