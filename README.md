@@ -237,3 +237,4 @@
 - `casscf_bweight 2,1` # singlets and triplets weighted 2:1
 - `Mult 3` multiplicity of PES2
 - `soln25` index of refraction at optical frequencies at 298 K
+- `sola` # Abraham’s hydrogen bond acidity
