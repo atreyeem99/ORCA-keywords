@@ -238,3 +238,4 @@
 - `Mult 3` multiplicity of PES2
 - `soln25` index of refraction at optical frequencies at 298 K
 - `sola` # Abraham’s hydrogen bond acidity
+- `PartialGCFlag -1`  Let the program decide whether to use PGC
