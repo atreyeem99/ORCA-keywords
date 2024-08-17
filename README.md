@@ -239,3 +239,4 @@
 - `soln25` index of refraction at optical frequencies at 298 K
 - `sola` # Abraham’s hydrogen bond acidity
 - `PartialGCFlag -1`  Let the program decide whether to use PGC
+- `RIJFlag RIJ_Auto` default: program decides the best way
