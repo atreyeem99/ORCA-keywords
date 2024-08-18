@@ -240,3 +240,4 @@
 - `sola` # Abraham’s hydrogen bond acidity
 - `PartialGCFlag -1`  Let the program decide whether to use PGC
 - `RIJFlag RIJ_Auto` default: program decides the best way
+- `FockFlag SHARK_libint_hybrid` # default: best of both worlds
