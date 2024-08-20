@@ -242,3 +242,4 @@
 - `RIJFlag RIJ_Auto` default: program decides the best way
 - `FockFlag SHARK_libint_hybrid` # default: best of both worlds
 - `PartialGCFlag -1` Let the program decide whether to use PGC
+- `Split_rij` new SHARK Split-RI-J algorithm
