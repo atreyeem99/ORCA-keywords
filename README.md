@@ -246,3 +246,4 @@
 - `Split_rij_2003` Highly efficient re-implementation of the Original 2003 algorithm. Mostly used!
 - `rij_regular` Use traditional 3 center integrals
 - `force_shark` Force Shark where possible
+- `force_libint` Force libint where possible
