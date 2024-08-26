@@ -248,3 +248,4 @@
 - `force_shark` Force Shark where possible
 - `force_libint` Force libint where possible
 - Printlevel 1` Amount of output generated. Choose 0 to suppress output and 2 for more output.Everything else is debug-level printing and will fill your harddrive very quickly with unusable information
+- `UseGeneralContraction false turns general contraction algorithm on or off.
