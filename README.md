@@ -249,5 +249,5 @@
 - `force_libint` Force libint where possible
 - `Printlevel 1` Amount of output generated. Choose 0 to suppress output and 2 for more output.Everything else is debug-level printing and will fill your harddrive very quickly with unusable information
 - `PartialGCFlag 1` Enforce PGC (even for ANO bases)
-- `UseGeneralContraction false turns general contraction algorithm on or off.
+- `UseGeneralContraction false turns general contraction algorithm on or off.There normally is no need to set this flag since the program will find the contraction case automatically
 - `
