@@ -251,3 +251,4 @@
 - `PartialGCFlag 1` Enforce PGC (even for ANO bases)
 - `UseGeneralContraction false turns general contraction algorithm on or off.There normally is no need to set this flag since the program will find the contraction case automatically
 - `Excitations cisd` Type of excitations
+- `Refs CAS(NEl,NOrb) end` Reference space def.
