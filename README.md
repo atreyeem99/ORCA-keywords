@@ -253,3 +253,4 @@
 - `Excitations cisd` Type of excitations
 - `Refs CAS(NEl,NOrb) end` Reference space def.
 - `useivos false` use improved virtual orbitals
+- `useMP2nat false` use MP2 natural orbitals
