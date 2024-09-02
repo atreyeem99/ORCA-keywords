@@ -254,3 +254,4 @@
 - `Refs CAS(NEl,NOrb) end` Reference space def.
 - `useivos false` use improved virtual orbitals
 - `useMP2nat false` use MP2 natural orbitals
+- `useQROs false`  For UHF: use quasi-restricted MOs?
