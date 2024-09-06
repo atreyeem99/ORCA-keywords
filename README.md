@@ -258,3 +258,4 @@
 - `integrals exact`  exact or ri transformation
 - `diisstartiter 2 ` Apply DIIS starting at iteration 1
 - `trafotype 0`  Type of integral transformation
+- `trafotype 0 `Type of integral transformation
