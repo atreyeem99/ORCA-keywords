@@ -260,3 +260,4 @@
 - `trafotype 0`  Type of integral transformation
 - `trafotype 0 `Type of integral transformation
 - `useoldints ` Use the transformed integrals found on disk
+- `keepints ` Keep the transformed integrals on disk
