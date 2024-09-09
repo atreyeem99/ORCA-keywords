@@ -261,3 +261,4 @@
 - `trafotype 0 `Type of integral transformation
 - `useoldints ` Use the transformed integrals found on disk
 - `keepints ` Keep the transformed integrals on disk
+- `diisstartiter 2 ` Apply DIIS starting at iteration 1
