@@ -263,3 +263,4 @@
 - `keepints ` Keep the transformed integrals on disk
 - `diisstartiter 2 ` Apply DIIS starting at iteration 1
 - `FICMRACPF ` Fully internally contracted ACPF
+- `FICDDCI3` FIC-MRCI without the IJAB excitation
