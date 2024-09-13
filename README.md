@@ -265,3 +265,4 @@
 - `FICMRACPF ` Fully internally contracted ACPF
 - `FICDDCI3` FIC-MRCI without the IJAB excitation
 - `CEPA0` linearized CCSD
+- `FICMRAQCC` Fully internally contracted AQCC
