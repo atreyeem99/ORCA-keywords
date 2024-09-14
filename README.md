@@ -266,3 +266,4 @@
 - `FICDDCI3` FIC-MRCI without the IJAB excitation
 - `CEPA0` linearized CCSD
 - `FICMRAQCC` Fully internally contracted AQCC
+- `stol` 1e-06 # residue convergence tolerance
