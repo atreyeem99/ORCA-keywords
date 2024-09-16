@@ -268,3 +268,4 @@
 - `FICMRAQCC` Fully internally contracted AQCC
 - `stol` 1e-06 # residue convergence tolerance
 - `citype` Type of the CI expansion to be applied (one of following)
+- `FICMRCEPA0 ` Fully internally contracted CEPA0
