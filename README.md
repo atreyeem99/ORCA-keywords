@@ -270,3 +270,4 @@
 - `citype` Type of the CI expansion to be applied (one of following)
 - `FICMRCEPA0 ` Fully internally contracted CEPA0
 - FICDDCI3` FIC-MRCI without the IJAB excitation
+- `irrep 0`  requested irrep for mult block
