@@ -269,5 +269,6 @@
 - `stol` 1e-06 # residue convergence tolerance
 - `citype` Type of the CI expansion to be applied (one of following)
 - `FICMRCEPA0 ` Fully internally contracted CEPA0
-- FICDDCI3` FIC-MRCI without the IJAB excitation
+- `FICDDCI3` FIC-MRCI without the IJAB excitation
 - `irrep 0`  requested irrep for mult block
+- `D3TPre` 1e-14 # Density truncation in D3
