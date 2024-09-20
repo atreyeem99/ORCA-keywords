@@ -272,3 +272,4 @@
 - `FICDDCI3` FIC-MRCI without the IJAB excitation
 - `irrep 0`  requested irrep for mult block
 - `D3TPre` 1e-14 # Density truncation in D3
+- `irrep 0` # requested irrep for mult block
