@@ -273,3 +273,4 @@
 - `irrep 0`  requested irrep for mult block
 - `D3TPre` 1e-14 # Density truncation in D3
 - `irrep 0` # requested irrep for mult block
+- `LINEARIZED` Linear part of the density
