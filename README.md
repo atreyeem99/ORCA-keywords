@@ -275,3 +275,4 @@
 - `irrep 0` # requested irrep for mult block
 - `LINEARIZED` Linear part of the density
 - `UNRELAXED` Unrelaxed 1-body density matrix
+- `NONE` No density calculation
