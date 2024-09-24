@@ -276,3 +276,4 @@
 - `LINEARIZED` Linear part of the density
 - `UNRELAXED` Unrelaxed 1-body density matrix
 - `NONE` No density calculation
+- `density` type of density requested
