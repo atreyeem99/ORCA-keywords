@@ -277,3 +277,4 @@
 - `UNRELAXED` Unrelaxed 1-body density matrix
 - `NONE` No density calculation
 - `density` type of density requested
+- `nthresh 1e-6 removal of linear dependencies in the IC-CS
