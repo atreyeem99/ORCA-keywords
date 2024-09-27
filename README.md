@@ -279,3 +279,4 @@
 - `density` type of density requested
 - `nthresh 1e-6` removal of linear dependencies in the IC-CS
 - `%moinp "start.gbw" ` could be from CASSCF
+- `DavidsonOpt 0  none (default)` Davidson correction for the FIC-MRCI
