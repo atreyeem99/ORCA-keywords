@@ -280,3 +280,4 @@
 - `nthresh 1e-6` removal of linear dependencies in the IC-CS
 - `%moinp "start.gbw" ` could be from CASSCF
 - `DavidsonOpt 0  none (default)` Davidson correction for the FIC-MRCI
+- `TS_Mode {D 3 2 1 0} end ` dihedral of atoms 3, 2, 1 and 0
