@@ -282,3 +282,4 @@
 - `DavidsonOpt 0  none (default)` Davidson correction for the FIC-MRCI
 - `TS_Mode {D 3 2 1 0} end ` dihedral of atoms 3, 2, 1 and 0
 - `TS_Mode {A 2 1 0} end` angle between atoms 2, 1 and 0
+- `{ B N1 N2 value C }`the bond between N1 and N2
