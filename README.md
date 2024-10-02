@@ -284,3 +284,4 @@
 - `TS_Mode {A 2 1 0} end` angle between atoms 2, 1 and 0
 - `{ B N1 N2 value C }`the bond between N1 and N2
 - `{ D * * * * C }` all dihedrals
+- `{ B 10 0 A }` add a bond between atoms 0 and 10
