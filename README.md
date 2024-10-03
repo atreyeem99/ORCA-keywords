@@ -285,3 +285,4 @@
 - `{ B N1 N2 value C }`the bond between N1 and N2
 - `{ D * * * * C }` all dihedrals
 - `{ B 10 0 A }` add a bond between atoms 0 and 10
+- `{ A 8 9 10 R }` remove the angle defined by atoms 8, 9 and 10
