@@ -286,3 +286,4 @@
 - `{ D * * * * C }` all dihedrals
 - `{ B 10 0 A }` add a bond between atoms 0 and 10
 - `{ A 8 9 10 R }` remove the angle defined by atoms 8, 9 and 10
+- `TS_Mode {A 2 1 0}` end angle between atoms 2, 1 and 0
