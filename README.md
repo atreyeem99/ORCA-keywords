@@ -1,4 +1,5 @@
-# ORCA-keywords
+{ B N1 N2 value C }
+# the bond between N1 and N2# ORCA-keywords
 - `PAL` to run parallel calculation
 - `OPT` for optimization
 - `TIGHTOPT` or `VERYTIGHTOPT` for tightly optimizing structures
