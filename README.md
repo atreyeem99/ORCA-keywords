@@ -1,5 +1,3 @@
-{ B N1 N2 value C }
-# the bond between N1 and N2# ORCA-keywords
 - `PAL` to run parallel calculation
 - `OPT` for optimization
 - `TIGHTOPT` or `VERYTIGHTOPT` for tightly optimizing structures
@@ -288,3 +286,4 @@
 - `{ B 10 0 A }` add a bond between atoms 0 and 10
 - `{ A 8 9 10 R }` remove the angle defined by atoms 8, 9 and 10
 - `TS_Mode {A 2 1 0}` end angle between atoms 2, 1 and 0
+- `{ A 8 9 10 R }` remove the angle defined by atoms 8, 9 and 10
