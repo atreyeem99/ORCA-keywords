@@ -288,3 +288,4 @@
 - `TS_Mode {A 2 1 0}` end angle between atoms 2, 1 and 0
 - `{ A 8 9 10 R }` remove the angle defined by atoms 8, 9 and 10
 - `{ D * * * * C }` all dihedrals
+- `{ C N1 C }` the cartesian position of N1
