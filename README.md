@@ -289,3 +289,4 @@
 - `{ A 8 9 10 R }` remove the angle defined by atoms 8, 9 and 10
 - `{ D * * * * C }` all dihedrals
 - `{ C N1 C }` the cartesian position of N1
+- `{ B * * C}` all bonds
