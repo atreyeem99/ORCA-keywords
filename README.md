@@ -291,3 +291,4 @@
 - `{ C N1 C }` the cartesian position of N1
 - `{ B * * C}` all bonds
 - `{ D 7 8 9 10 R } ` remove the dihedral angle defined by atoms 7, 8, 9 and 10
+- `{ A N1 N2 N1 value C }` the angle defined by N1, N2 and N3
