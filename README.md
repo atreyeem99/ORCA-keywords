@@ -293,3 +293,4 @@
 - `{ D 7 8 9 10 R } ` remove the dihedral angle defined by atoms 7, 8, 9 and 10
 - `{ A N1 N2 N1 value C }` the angle defined by N1, N2 and N3
 - `TS_Mode {D 3 2 1 0}` end  dihedral of atoms 3, 2, 1 and 0
+- `{ B N1 * C}` all bonds involving N1
