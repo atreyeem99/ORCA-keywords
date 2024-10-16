@@ -295,3 +295,4 @@
 - `TS_Mode {D 3 2 1 0}` end  dihedral of atoms 3, 2, 1 and 0
 - `{ B N1 * C}` all bonds involving N1
 - `fullScan true` if !ScanTS is requested, fullScan assures that the relaxed surface scan is fully carried out before the TS optimization is started (Default is false)
+- `{1 2 C}` constrain the internal coordinates connecting fragments 1 and 2
