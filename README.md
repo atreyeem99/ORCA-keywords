@@ -299,3 +299,4 @@
 - `{1 3 O}` optimize the internal coordinates connecting fragments 1 and 3
 - `Scan B N1 N2 [value1 value2 value3 ... valueN] end` perform constrained optimizations with N1-N2-distances
 - `GDIISMaxE`  number of last steps to use in GDIIS algorithm
+- `GDIISStart 1.0 ` Gradient at which to start GDIIS algorithm
