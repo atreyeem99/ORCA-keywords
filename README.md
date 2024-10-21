@@ -300,3 +300,4 @@
 - `Scan B N1 N2 [value1 value2 value3 ... valueN] end` perform constrained optimizations with N1-N2-distances
 - `GDIISMaxE`  number of last steps to use in GDIIS algorithm
 - `GDIISStart 1.0 ` Gradient at which to start GDIIS algorithm
+- `MaxStep 0.3 ` maximum step length in internal coordinates. Default is 0.3 au
