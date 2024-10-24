@@ -303,3 +303,4 @@
 - `MaxStep 0.3 ` maximum step length in internal coordinates. Default is 0.3 au
 - `TolRMSG 1e-4` RMS gradient (a.u.)
 - `TolMaxG 3e-4 ` Max. element of gradient (a.u.)
+- `TolMaxD 4e-3 ` Max. displacement (a.u.)
