@@ -304,3 +304,4 @@
 - `TolRMSG 1e-4` RMS gradient (a.u.)
 - `TolMaxG 3e-4 ` Max. element of gradient (a.u.)
 - `TolMaxD 4e-3 ` Max. displacement (a.u.)
+- `UseGDIIS false ` use GDIIS step (in Cartesian optimization)
