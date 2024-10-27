@@ -306,3 +306,4 @@
 - `TolMaxD 4e-3 ` Max. displacement (a.u.)
 - `UseGDIIS false ` use GDIIS step (in Cartesian optimization)
 - `GDIISMaxE 10`  number of last steps to use in GDIIS algorithm
+- `ProjectTR false ` project translation and rotation
