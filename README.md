@@ -310,3 +310,4 @@
 - `MaxStep 0.3 ` maximum step length in internal coordinates. Default is 0.3 au
 - `Trust -0.3 ` Initial trust radius. Default is -0.3 au
 - `reset 5 ` reset the modified internal Hessian values after 5 cycles
+- `XYZ1 "scanName.003.xyz" ` the xyz-files of the structures
