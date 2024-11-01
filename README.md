@@ -311,3 +311,4 @@
 - `Trust -0.3 ` Initial trust radius. Default is -0.3 au
 - `reset 5 ` reset the modified internal Hessian values after 5 cycles
 - `XYZ1 "scanName.003.xyz" ` the xyz-files of the structures
+- `XYZ2 "ScanName.005.xyz" ` next to the highest energy point
