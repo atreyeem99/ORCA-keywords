@@ -313,3 +313,4 @@
 - `XYZ1 "scanName.003.xyz" ` the xyz-files of the structures
 - `XYZ2 "ScanName.005.xyz" ` next to the highest energy point
 - `GBW1 "ScanName.003.gbw" ` the gbw-files of the structures
+- `GBW2 "ScanName.005.xyz" ` next to the highest energythe gbw-files are optional
