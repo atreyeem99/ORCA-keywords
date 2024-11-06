@@ -316,3 +316,4 @@
 - `GBW2 "ScanName.005.xyz" ` next to the highest energythe gbw-files are optional
 - `ReducePrint true `reduce printout after the first point default=true
 - `OptGuess= OneElec ` the one electron matrix
+- `UseSOSCF false ` switches the converger to SOSCF after the first point.
