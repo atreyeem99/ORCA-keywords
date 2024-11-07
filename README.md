@@ -317,3 +317,4 @@
 - `ReducePrint true `reduce printout after the first point default=true
 - `OptGuess= OneElec ` the one electron matrix
 - `UseSOSCF false ` switches the converger to SOSCF after the first point.
+- `NResetHess 20 ` Set the number of geometry steps after which a new model Hessian is built
