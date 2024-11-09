@@ -319,3 +319,4 @@
 - `UseSOSCF false ` switches the converger to SOSCF after the first point.
 - `NResetHess 20 ` Set the number of geometry steps after which a new model Hessian is built
 - `FICMRACPF` Fully internally contracted ACPF
+- `FICMRAQCC` Fully internally contracted AQCC
