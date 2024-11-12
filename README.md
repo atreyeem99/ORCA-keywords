@@ -321,4 +321,5 @@
 - `FICMRACPF` Fully internally contracted ACPF
 - `FICMRAQCC` Fully internally contracted AQCC
 - `Trust -0.3 ` Initial trust radius. Default is -0.3
-- TolRMSD 2e-3 ` RMS displacement (a.u.)
+- `TolRMSD 2e-3 ` RMS displacement (a.u.)
+- `TolMaxD 4e-3`  Max. displacement (a.u.)
