@@ -324,3 +324,4 @@
 - `TolRMSD 2e-3 ` RMS displacement (a.u.)
 - `TolMaxD 4e-3`  Max. displacement (a.u.)
 - `DryRun false ` estimate the expected amount of memory needed for a total incore and an ondisk calculation (max/min)
+- `XTBVPT2 True` use XTB for the VPT2 correction of the IR
