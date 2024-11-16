@@ -326,3 +326,4 @@
 - `DryRun false ` estimate the expected amount of memory needed for a total incore and an ondisk calculation (max/min)
 - `XTBVPT2 True` use XTB for the VPT2 correction of the IR
 - `delq 0.5 `  the displacement in dimensionless coordinates used during the VPT2
+- `Partial_Hess {...} end ` calculate (numerical) Partial Hessian
