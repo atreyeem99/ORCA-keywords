@@ -329,3 +329,4 @@
 - `Partial_Hess {...} end ` calculate (numerical) Partial Hessian
 - `Hybrid_Hess {...} end ` calculate (numerical) Hybrid Hessian
 - `Increment 0.005` increment h
+- `DX 0.005` increment h
