@@ -330,3 +330,4 @@
 - `Hybrid_Hess {...} end ` calculate (numerical) Hybrid Hessian
 - `Increment 0.005` increment h
 - `DX 0.005` increment h
+- `Monitor_Internals ` Up to three internal coordinates can be defined
