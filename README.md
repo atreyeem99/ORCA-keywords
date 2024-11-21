@@ -331,3 +331,4 @@
 - `Increment 0.005` increment h
 - `DX 0.005` increment h
 - `Monitor_Internals ` Up to three internal coordinates can be defined
+- `{B 0 1}` for which the values are printed during the IRC run.
