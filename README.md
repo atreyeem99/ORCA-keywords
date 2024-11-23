@@ -333,3 +333,4 @@
 - `Monitor_Internals ` Up to three internal coordinates can be defined
 - `{B 0 1}` for which the values are printed during the IRC run.
 - `{B 1 5}` Possible are (B)onds, (A)ngles, (D)ihedrals and (I)mpropers
+- `TolMaxG` 2.e-3Max. element of gradient (a.u.)
