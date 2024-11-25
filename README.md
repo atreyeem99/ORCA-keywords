@@ -335,3 +335,4 @@
 - `{B 1 5}` Possible are (B)onds, (A)ngles, (D)ihedrals and (I)mpropers
 - `TolMaxG` 2.e-3Max. element of gradient (a.u.)
 - `Scale_Displ_SD_Corr 0.333` Scaling factor for scaling the correction step to the SD step.
+- `SD_Corr_ParabolicFit true` Do a parabolic fit for finding an optimal correction step length
