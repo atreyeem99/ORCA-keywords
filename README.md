@@ -340,3 +340,4 @@
 - `Interpolate_only true ` Only allow interpolation for parabolic fit, not extrapolation
 - `Scale_Displ_SD 0.15 ` Scaling factor for scaling the 1st SD step
 - `SD_ParabolicFit true ` Do a parabolic fit for finding an optimal SD step  length
+- `Adapt_Scale_Displ true ` modify Scale_Displ_SD when the step size becomes smaller or larger
