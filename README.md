@@ -342,3 +342,4 @@
 - `SD_ParabolicFit true ` Do a parabolic fit for finding an optimal SD step  length
 - `Adapt_Scale_Displ true ` modify Scale_Displ_SD when the step size becomes smaller or larger
 - `hessMode 0 ` Hessian mode that is used for the initial displacement. Default 0
+- `Scale_Init_Displ 0.1 ` step size for initial displacement from TS. Default 0.1 a.u
