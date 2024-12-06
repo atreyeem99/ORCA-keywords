@@ -345,3 +345,4 @@
 - `Scale_Init_Displ 0.1 ` step size for initial displacement from TS. Default 0.1 a.u
 - `InitHess read ` by default ORCA uses the Hessian from AnFreq or NumFreq,
 - `Gaussian Constraints ` List defining the constraints for the Gaussian optimizer.
+- `GauOptFlags` String indicating the optimization flags
