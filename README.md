@@ -346,3 +346,4 @@
 - `InitHess read ` by default ORCA uses the Hessian from AnFreq or NumFreq,
 - `Gaussian Constraints ` List defining the constraints for the Gaussian optimizer.
 - `GauOptFlags` String indicating the optimization flags
+- `GaussianName "GAU" ` String defining the name of the Gaussian optimizer
