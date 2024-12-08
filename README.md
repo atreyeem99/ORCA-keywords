@@ -347,3 +347,4 @@
 - `Gaussian Constraints ` List defining the constraints for the Gaussian optimizer.
 - `GauOptFlags` String indicating the optimization flags
 - `GaussianName "GAU" ` String defining the name of the Gaussian optimizer
+- `DX 0.005` Increment in Bohr for the differentiation.
