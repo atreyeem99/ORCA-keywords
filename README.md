@@ -350,3 +350,4 @@
 - `DX 0.005` Increment in Bohr for the differentiation.
 - `TransInvar true ` Take advantage of translation invariance
 - `CentralDiff true ` You should use two-sided numerical differentiation,
+- `ScalFreq` Scaling factor for frequencies (default = 1.0)
