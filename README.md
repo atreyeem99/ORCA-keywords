@@ -351,3 +351,4 @@
 - `TransInvar true ` Take advantage of translation invariance
 - `CentralDiff true ` You should use two-sided numerical differentiation,
 - `ScalFreq` Scaling factor for frequencies (default = 1.0)
+- `PreOpt false` do optimization of reactant and product in internal coordinates before NEB starts
