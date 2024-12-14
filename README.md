@@ -353,3 +353,4 @@
 - `ScalFreq` Scaling factor for frequencies (default = 1.0)
 - `PreOpt false` do optimization of reactant and product in internal coordinates before NEB starts
 - `Tangent` improvedimproved (default)
+- `Check SCF convergence`: If true, SCF convergence is checked
