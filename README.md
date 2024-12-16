@@ -350,4 +350,5 @@
 - `DX 0.005` Increment in Bohr for the differentiation.
 - `TransInvar true ` Take advantage of translation invariance
 - `CentralDiff true ` You should use two-sided numerical differentiation,
-`Interpolatio IDPP`Method to generate the images based on the reactant, product
+-`Interpolatio IDPP`Method to generate the images based on the reactant, product
+- `Free_End false` Use free-end NEB. In this case the NImages
