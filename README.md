@@ -352,3 +352,4 @@
 - `CentralDiff true ` You should use two-sided numerical differentiation,
 -`Interpolatio IDPP`Method to generate the images based on the reactant, product
 - `Free_End false` Use free-end NEB. In this case the NImages
+- `TS_PDBFile` "TSGuess.pdb" # TS guess structure in pdb format.
