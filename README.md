@@ -355,3 +355,4 @@
 - `TS_PDBFile` "TSGuess.pdb" # TS guess structure in pdb format.
 - Free_End false` Use free-end NEB. In this case the NImages
 - `Tangent improved` improved (default)
+- `Product_PDBFile "product.pdb"` Product structure in pdb format.
