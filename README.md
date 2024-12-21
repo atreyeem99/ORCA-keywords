@@ -356,3 +356,4 @@
 - Free_End false` Use free-end NEB. In this case the NImages
 - `Tangent improved` improved (default)
 - `Product_PDBFile "product.pdb"` Product structure in pdb format.
+- `CheckSCFConv true` default true
