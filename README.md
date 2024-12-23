@@ -358,3 +358,4 @@
 - `Product_PDBFile "product.pdb"` Product structure in pdb format.
 - `CheckSCFConv true` default true
 - `Free_End false` Use free-end NEB.
+- `Interpolation IDPP` Method to generate the images based on the reactant, product
