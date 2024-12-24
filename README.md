@@ -359,3 +359,4 @@
 - `CheckSCFConv true` default true
 - `Free_End false` Use free-end NEB.
 - `Interpolation IDPP` Method to generate the images based on the reactant, product
+- `Tangent improved` improved (default)
