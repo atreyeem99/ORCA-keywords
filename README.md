@@ -362,3 +362,4 @@
 - `Tangent improved` improved (default)
 - `NPTS_Interpol 10` Number of abscissa in cubic polynomial
 - `NEB` NEB calculation
+- `algorithm 1` Is perhaps the best for small systems.
