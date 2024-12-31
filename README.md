@@ -366,3 +366,4 @@
 - `algorithm 2` Stores less integrals
 - `algorithm 3` Is good if the system is large and only a few states are calculated.
 - `SOCTemp 10` The fictive temperature for the SOC corrected spectra
+- `LOOSEOPTSelects loose optimization convergence
