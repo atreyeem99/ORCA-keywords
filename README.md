@@ -368,3 +368,4 @@
 - `SOCTemp 10` The fictive temperature for the SOC corrected spectra
 - `LOOSEOPTSelects loose optimization convergence
 - `NOTRAH` Turns trust-region augmented Hessian SCF
+- `IgnoreConv` Ignore convergence: continue with the calculation, even if the SCF wavefunc-tion is far from convergence.
