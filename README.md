@@ -369,3 +369,4 @@
 - `LOOSEOPTSelects loose optimization convergence
 - `NOTRAH` Turns trust-region augmented Hessian SCF
 - `IgnoreConv` Ignore convergence: continue with the calculation, even if the SCF wavefunc-tion is far from convergence.
+- `ForceConv` Force convergence: do not continue with the calculation, if the SCF did not fully converge.
