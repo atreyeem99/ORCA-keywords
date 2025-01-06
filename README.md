@@ -372,3 +372,4 @@
 - `ForceConv` Force convergence: do not continue with the calculation, if the SCF did not fully converge.
 - `VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases
 - `Nop 2` number of operators
+- `B[1,1] 2` Exchange vector in the open shell
