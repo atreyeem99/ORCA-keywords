@@ -375,3 +375,4 @@
 - `B[1,1] 2` Exchange vector in the open shell
 - `Mode 2` use the Kollmar operator
 - `FOD` Functional occupational number 
+- `Print[ P_UNO_OrbPopMO_L] = 0`Loewdin orbital pop.
