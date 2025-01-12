@@ -378,3 +378,4 @@
 - `Print[ P_UNO_OrbPopMO_L] = 0`Loewdin orbital pop.
 - `Print[ P_UNO_AtPopMO_] = 0`  Loewdin atom pop
 - `Print[ P_UNO_ReducedOrbPopMO_M] = 0;` Mulliken reduced orbital
+- `Print[ P_UNO_OrbPopMO_M] = 0`; # Mulliken orbital pop
