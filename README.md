@@ -380,3 +380,4 @@
 - `Print[ P_UNO_ReducedOrbPopMO_M] = 0;` Mulliken reduced orbital
 - `Print[ P_UNO_OrbPopMO_M] = 0`; # Mulliken orbital pop
 - `MO("MyOrbital-15xy.plt",15,0); ` orbital to plot
+- `SpinDens("MySpinDens");` Spin density
