@@ -382,3 +382,4 @@
 - `MO("MyOrbital-15xy.plt",15,0); ` orbital to plot
 - `SpinDens("MySpinDens");` Spin density
 - `ElDens("MyElDens.plt");` Electron density
+- `dim1 45` resolution in v2-direction
