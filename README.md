@@ -383,3 +383,4 @@
 - `SpinDens("MySpinDens");` Spin density
 - `ElDens("MyElDens.plt");` Electron density
 - `dim1 45` resolution in v2-direction
+- `min1 -7.0 ` min value along v2 in bohr
