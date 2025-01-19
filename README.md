@@ -385,3 +385,4 @@
 - `dim1 45` resolution in v2-direction
 - `min1 -7.0 ` min value along v2 in bohr
 - `WRITEHESSFALSE ` Make ES PES and leave
+- `ExpAbsScaleMode Ext` This keyword indicates that the experimental
