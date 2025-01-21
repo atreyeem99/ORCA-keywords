@@ -387,3 +387,4 @@
 - `WRITEHESSFALSE ` Make ES PES and leave
 - `ExpAbsScaleMode Ext` This keyword indicates that the experimental
 - `SOMF(1X) = SOCType 3`, SOCFlags 1,2,3,0 and SOCMaxCenter 4
+- `AMFI = SOCType 3,` SOCFlags 1,4,3,0 and SOCMaxCenter 1
