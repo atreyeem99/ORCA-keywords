@@ -389,3 +389,4 @@
 - `SOMF(1X) = SOCType 3`, SOCFlags 1,2,3,0 and SOCMaxCenter 4
 - `AMFI = SOCType 3,` SOCFlags 1,4,3,0 and SOCMaxCenter 1
 - `AMFI-A = SOCType 4,` SOCFlags 1,4,3,0 and SOCMaxCenter 1
+- `udex.inp:` list of energies for taking cuts at constant Excitation Energy axis
