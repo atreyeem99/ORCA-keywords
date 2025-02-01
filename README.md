@@ -396,3 +396,4 @@
 - `NDOThresh 1e-4` Threshold for printing occupation numbers
 - `NDOStates = 1,2` Array input for states to be taken into account
 - `DoLoc false` Switch for localization of Donor orbital space
+- `DoRI false` Switch for the RI approximation
