@@ -397,3 +397,4 @@
 - `NDOStates = 1,2` Array input for states to be taken into account
 - `DoLoc false` Switch for localization of Donor orbital space
 - `DoRI false` Switch for the RI approximation
+- `OrbWin=6,8,0,2000` Orbital Window that defines orbital excitation space
