@@ -399,3 +399,4 @@
 - `DoRI false` Switch for the RI approximation
 - `OrbWin=6,8,0,2000` Orbital Window that defines orbital excitation space
 - `DoHeff true` Requests calculation of G-tenosrs and ZFS
+- `DoEPR true` Requests calculation of G-tenosrs, ZFS and HFCs
