@@ -404,3 +404,4 @@
 - `ATensor 0` Nucleus to calculate HFCs and EFGs
 - `wB97` Head-Gordon’s fully variable DF !B97
 - `m6-31G` Modified 6-31G for 3d transition metals (Sc–Cu)
+- `STO-3G` Minimal basis set(H–I)
