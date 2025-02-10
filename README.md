@@ -405,3 +405,4 @@
 - `wB97` Head-Gordon’s fully variable DF !B97
 - `m6-31G` Modified 6-31G for 3d transition metals (Sc–Cu)
 - `STO-3G` Minimal basis set(H–I)
+- `3-21G` Pople 3-21G (H–Cs)
