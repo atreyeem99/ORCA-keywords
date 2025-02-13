@@ -408,3 +408,4 @@
 - `3-21G` Pople 3-21G (H–Cs)
 - `m6-31G` Modified 6-31G for 3d transition metals (Sc–Cu)
 - `6-311G` Pople 6-311G and its modifications (H–Br)
+- `6-31G` Pople 6-31G and its modifications (H–Zn)
