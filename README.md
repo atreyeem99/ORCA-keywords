@@ -409,3 +409,4 @@
 - `m6-31G` Modified 6-31G for 3d transition metals (Sc–Cu)
 - `6-311G` Pople 6-311G and its modifications (H–Br)
 - `6-31G` Pople 6-31G and its modifications (H–Zn)
+- `3-21GSP` Buenker 3-21GSP (H–Ar)
