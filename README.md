@@ -411,3 +411,4 @@
 - `6-31G` Pople 6-31G and its modifications (H–Zn)
 - `3-21GSP` Buenker 3-21GSP (H–Ar)
 - `def2-svp` Valence double-zeta basis set with “new” polarization functions.
+- `def2-sv(p) ` The above with slightly reduced polarization.
