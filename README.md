@@ -413,3 +413,4 @@
 - `def2-svp` Valence double-zeta basis set with “new” polarization functions.
 - `def2-sv(p) ` The above with slightly reduced polarization.
 - `PMOS`  based on orthogonalization tails.
+- `OSZ` based on oszillator orbital
