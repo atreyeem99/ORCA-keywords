@@ -414,3 +414,4 @@
 - `def2-sv(p) ` The above with slightly reduced polarization.
 - `PMOS`  based on orthogonalization tails.
 - `OSZ` based on oszillator orbital
+- `DOI` based on differential overlap
