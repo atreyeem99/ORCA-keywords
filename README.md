@@ -415,3 +415,4 @@
 - `PMOS`  based on orthogonalization tails.
 - `OSZ` based on oszillator orbital
 - `DOI` based on differential overlap
+- `DoubleShell ` based on the shell and angular momentum of the highest active orbitals
