@@ -418,3 +418,4 @@
 - `DoubleShell ` based on the shell and angular momentum of the highest active orbitals
 - `CanonOrbs` canonical
 - `SDO` Single Determinant Orbital
+- `dOrbs` purify metal d-orbital and call the AILFT
