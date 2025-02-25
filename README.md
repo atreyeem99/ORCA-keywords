@@ -419,3 +419,4 @@
 - `CanonOrbs` canonical
 - `SDO` Single Determinant Orbital
 - `dOrbs` purify metal d-orbital and call the AILFT
+` OSZ` based on oszillator orbital
