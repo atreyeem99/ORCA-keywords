@@ -422,3 +422,4 @@
 - ` OSZ` based on oszillator orbital
 - `fOrbs` purify metal f-orbital and call the AILFT
 - `unchanged` no changes
+- `LocOrbs` localized
