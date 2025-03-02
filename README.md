@@ -424,3 +424,4 @@
 - `unchanged` no changes
 - `LocOrbs` localized
 - `fOrbs` purify metal f-orbital and call the AILFT
+- `DoubleShell ` based on the shell and angular momentum
