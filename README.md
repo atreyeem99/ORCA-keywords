@@ -428,3 +428,4 @@
 - `NGuessMat 512` size of initial guess matrix
 - `ExactDiagSwitch 512 ` up to this dimension the Hessian
 - `MaxDim 35` Davidson expansion space
+- `Compress true` use compressed storage
