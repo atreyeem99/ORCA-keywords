@@ -429,3 +429,4 @@
 - `ExactDiagSwitch 512 ` up to this dimension the Hessian
 - `MaxDim 35` Davidson expansion space
 - `Compress true` use compressed storage
+- `MaxDIIS 12` max. number of DIIS vectors
