@@ -430,3 +430,4 @@
 - `MaxDim 35` Davidson expansion space
 - `Compress true` use compressed storage
 - `MaxDIIS 12` max. number of DIIS vectors
+- `UseSubMatrixGuess true ` diag a submatrix of the Hessian
