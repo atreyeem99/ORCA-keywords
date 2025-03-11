@@ -433,3 +433,4 @@
 - `UseSubMatrixGuess true ` diag a submatrix of the Hessian
 - `Compress true` use compressed storage
 - `DiagShift 0.0 ` shift of the diagonal elements of the Hessian
+- `MaxIter 35` max. no. of CI iters.
