@@ -439,3 +439,4 @@
 - `weights[1] = 0.7,0.3` triplet weights
 - `mult 1,3` here: multiplicities singlet and triplet
 - `nroots 4,2 ` four singlets, two triplets
+- `printgstate true ` optional printing of the state-specific orbital gradients
