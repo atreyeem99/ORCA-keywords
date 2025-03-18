@@ -440,3 +440,4 @@
 - `mult 1,3` here: multiplicities singlet and triplet
 - `nroots 4,2 ` four singlets, two triplets
 - `printgstate true ` optional printing of the state-specific orbital gradients
+- `NR` augmented Hessian Newton-Raphson
