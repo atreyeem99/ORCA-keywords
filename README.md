@@ -443,3 +443,4 @@
 - `NR` augmented Hessian Newton-Raphson
 - `SuperCI_PT ` perturbative SuperCI (first order)
 - `OrbStep SuperCI ` or any other from the list above
+- `usekramerssym true ` use Kramers symmetry for the CI
