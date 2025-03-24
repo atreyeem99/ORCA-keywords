@@ -446,3 +446,4 @@
 - `usekramerssym true ` use Kramers symmetry for the CI
 - `gtensor true` calculate g-tensor
 - `usekramerssym true` use Kramers symmetry for the CI
+- `maxdim 10`  Davidson expansion space = MaxDim * NRoots
