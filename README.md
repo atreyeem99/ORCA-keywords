@@ -447,3 +447,4 @@
 - `gtensor true` calculate g-tensor
 - `usekramerssym true` use Kramers symmetry for the CI
 - `maxdim 10`  Davidson expansion space = MaxDim * NRoots
+- `picturechange true` include picture change effects for the SOC and the Zeeman operator
