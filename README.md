@@ -448,3 +448,4 @@
 - `usekramerssym true` use Kramers symmetry for the CI
 - `maxdim 10`  Davidson expansion space = MaxDim * NRoots
 - `picturechange true` include picture change effects for the SOC and the Zeeman operator
+- `rtol 5e-14` residual tolerance for the Davidson
