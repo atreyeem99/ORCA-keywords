@@ -451,3 +451,4 @@
 - `rtol 5e-14` residual tolerance for the Davidson
 - `gtensor true` calculate g-tensor
 - `Weights = 0.166667, 0.166667, 0.166667, 0.166667, 0.166667, 0.166667` weights for the state-averaging
+- `guesstype 0 ` guess CI coefficient are obtained from diagonalization
