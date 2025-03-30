@@ -452,3 +452,4 @@
 - `gtensor true` calculate g-tensor
 - `Weights = 0.166667, 0.166667, 0.166667, 0.166667, 0.166667, 0.166667` weights for the state-averaging
 - `guesstype 0 ` guess CI coefficient are obtained from diagonalization
+- `picturechange true` include picture change effects for the SOC and the Zeeman operator
