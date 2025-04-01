@@ -454,3 +454,4 @@
 - `guesstype 0 ` guess CI coefficient are obtained from diagonalization
 - `picturechange true` include picture change effects for the SOC and the Zeeman operator
 - `ACPF` averaged coupled-pair functional
+- `ACPF_2` Gdanitz modification of it
