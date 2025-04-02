@@ -455,3 +455,4 @@
 - `picturechange true` include picture change effects for the SOC and the Zeeman operator
 - `ACPF` averaged coupled-pair functional
 - `ACPF_2` Gdanitz modification of it
+- `SEOI` a strictly size extensive energy functional
