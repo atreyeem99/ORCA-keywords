@@ -457,3 +457,4 @@
 - `ACPF_2` Gdanitz modification of it
 - `SEOI` a strictly size extensive energy functional
 - `MP3` MP3 calculation.
+- `SEOI` a strictly size extensive energy functional
