@@ -460,3 +460,4 @@
 - `SEOI` a strictly size extensive energy functional
 - `ewin -3,1e3` orbital energy window to determine which MOs are included in the treatment
 - `Singles true ` include single excitations
+- `CPF_1` Coupled-pair functional approximation ‘‘1’’
