@@ -462,3 +462,4 @@
 - `Singles true ` include single excitations
 - `CPF_1` Coupled-pair functional approximation ‘‘1’’
 - `pCCSDAB` the three parameters for parametrized
+- `pCCSDCD` coupled-cluster (default is 1.0)
