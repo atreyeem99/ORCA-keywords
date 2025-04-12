@@ -465,3 +465,4 @@
 - `pCCSDCD` coupled-cluster (default is 1.0)
 - `Localize 0` use localized MOs.
 - `UseQROs` use of quasi-restricted orbitals
+- `D4Step Cu4` 4-RDM approximated with cumulants
