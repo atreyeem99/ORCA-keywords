@@ -466,3 +466,4 @@
 - `Localize 0` use localized MOs.
 - `UseQROs` use of quasi-restricted orbitals
 - `D4Step Cu4` 4-RDM approximated with cumulants
+- `MULT 1,3 ` multiplicity block
