@@ -467,3 +467,4 @@
 - `UseQROs` use of quasi-restricted orbitals
 - `D4Step Cu4` 4-RDM approximated with cumulants
 - `MULT 1,3 ` multiplicity block
+- `selectedRoots[1]=0,0 ` skip MULT=3 roots
