@@ -468,3 +468,4 @@
 - `D4Step Cu4` 4-RDM approximated with cumulants
 - `MULT 1,3 ` multiplicity block
 - `selectedRoots[1]=0,0 ` skip MULT=3 roots
+- `selectedRoots[0]=0,1 ` skip the first roots of MULT=1
