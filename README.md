@@ -469,3 +469,4 @@
 - `MULT 1,3 ` multiplicity block
 - `selectedRoots[1]=0,0 ` skip MULT=3 roots
 - `selectedRoots[0]=0,1 ` skip the first roots of MULT=1
+- `imaginary 0.0 ` imaginary shift (only for FIC-NEVPT2)
