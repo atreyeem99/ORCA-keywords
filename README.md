@@ -470,3 +470,4 @@
 - `selectedRoots[1]=0,0 ` skip MULT=3 roots
 - `selectedRoots[0]=0,1 ` skip the first roots of MULT=1
 - `imaginary 0.0 ` imaginary shift (only for FIC-NEVPT2)
+- `D4Step Cu4` 4-RDM approximated with cumulants
