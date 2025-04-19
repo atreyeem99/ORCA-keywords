@@ -472,3 +472,4 @@
 - `imaginary 0.0 ` imaginary shift (only for FIC-NEVPT2)
 - `D4Step Cu4` 4-RDM approximated with cumulants
 - `F12 true` Do the F12 correction
+- `intorbs locorbs ` use localized internal MOs.
