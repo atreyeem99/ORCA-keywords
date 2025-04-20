@@ -473,3 +473,4 @@
 - `D4Step Cu4` 4-RDM approximated with cumulants
 - `F12 true` Do the F12 correction
 - `intorbs locorbs ` use localized internal MOs.
+- `actorbs locorbs ` use localized active MOs.
