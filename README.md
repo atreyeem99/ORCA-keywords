@@ -476,3 +476,4 @@
 - `actorbs locorbs ` use localized active MOs.
 - `nevpt2 3 ` DLPNO-NEVPT2
 - `VLDA= VWN-5` local correlation model pot.
+- `VeN` nuclear attraction term
