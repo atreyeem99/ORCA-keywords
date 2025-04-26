@@ -479,3 +479,4 @@
 - `VeN` nuclear attraction term
 - `rhoDKH ` DKH4 model densities (default)
 - `rhoHF` Hartree-Fock model densities
+- `neCenter false` default value
