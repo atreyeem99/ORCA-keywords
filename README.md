@@ -482,3 +482,4 @@
 - `neCenter false` default value
 - `Scale_Displ_SD 0.15 ` Scaling factor for scaling the 1st SD step
 - `SD_ParabolicFit true` Do a parabolic fit for finding an optimal SD step length
+- `CTyp xyz`the type of coordinates xyz or internal
