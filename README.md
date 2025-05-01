@@ -484,3 +484,4 @@
 - `SD_ParabolicFit true` Do a parabolic fit for finding an optimal SD step length
 - `CTyp xyz`the type of coordinates xyz or internal
 - `Charge -2` # the total charge of the molecule
+- `HFS` Hartree-Fock Slater (Slater exchange only)
