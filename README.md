@@ -486,3 +486,4 @@
 - `Charge -2` # the total charge of the molecule
 - `HFS` Hartree-Fock Slater (Slater exchange only)
 - `PWLDA` Local spin density (PW-LDA)
+- `Constraints` to fix distances of atoms
