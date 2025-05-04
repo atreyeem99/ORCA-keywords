@@ -487,3 +487,4 @@
 - `HFS` Hartree-Fock Slater (Slater exchange only)
 - `PWLDA` Local spin density (PW-LDA)
 - `Constraints` to fix distances of atoms
+- `E(el)` is the total energy from the electronic structure calculation
