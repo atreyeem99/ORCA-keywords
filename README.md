@@ -488,3 +488,4 @@
 - `PWLDA` Local spin density (PW-LDA)
 - `Constraints` to fix distances of atoms
 - `E(el)` is the total energy from the electronic structure calculation
+- `E(ZPE)` the zero temperature vibrational energy from the frequency calculation
