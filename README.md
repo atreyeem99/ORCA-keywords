@@ -491,3 +491,4 @@
 - `E(ZPE)` the zero temperature vibrational energy from the frequency calculation
 - `E(rot)` - is the rotational thermal energy
 - `DielecConst 1.` dielectric constant used in calc. of electrostatic
+- `QMAtoms {0:3} end ` high level region
