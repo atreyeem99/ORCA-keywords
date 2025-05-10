@@ -493,3 +493,4 @@
 - `DielecConst 1.` dielectric constant used in calc. of electrostatic
 - `QMAtoms {0:3} end ` high level region
 - `ReConvCharge 1` default is 1. Redo charge convergence scheme every N steps.
+- `HLC`= (-alpha*bElectrons-beta*aElectrons)/1000;
