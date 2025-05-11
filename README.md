@@ -494,3 +494,4 @@
 - `QMAtoms {0:3} end ` high level region
 - `ReConvCharge 1` default is 1. Redo charge convergence scheme every N steps.
 - `HLC`= (-alpha*bElectrons-beta*aElectrons)/1000;
+- `VdwAngularGrid 2`  same scheme as the SCF ones
