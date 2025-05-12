@@ -495,3 +495,4 @@
 - `ReConvCharge 1` default is 1. Redo charge convergence scheme every N steps.
 - `HLC`= (-alpha*bElectrons-beta*aElectrons)/1000;
 - `VdwAngularGrid 2`  same scheme as the SCF ones
+- `MaxCore 256` maximum amount of memory (in MB) to be used for integral buffering
