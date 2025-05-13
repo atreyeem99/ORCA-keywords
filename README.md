@@ -496,3 +496,4 @@
 - `HLC`= (-alpha*bElectrons-beta*aElectrons)/1000;
 - `VdwAngularGrid 2`  same scheme as the SCF ones
 - `MaxCore 256` maximum amount of memory (in MB) to be used for integral buffering
+- `EMax 1.0e3 orbital energy cutoff that defines the  neglected virtual orbitals in Eh
