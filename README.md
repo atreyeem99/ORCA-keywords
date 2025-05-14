@@ -497,3 +497,4 @@
 - `VdwAngularGrid 2`  same scheme as the SCF ones
 - `MaxCore 256` maximum amount of memory (in MB) to be used for integral buffering
 - `EMax 1.0e3 orbital energy cutoff that defines the  neglected virtual orbitals in Eh
+- `Q1Opt` For non-RI calculations a flag how to perform
