@@ -500,3 +500,4 @@
 - `Q1Opt` For non-RI calculations a flag how to perform
 - `F12 false` apply F12 correction
 - `EMax 1.0e3`  orbital energy cutoff that defines the  neglected virtual orbitals in Eh
+- `EWin EMin,EMax ` the same, but accessed as array
