@@ -502,3 +502,4 @@
 - `EMax 1.0e3`  orbital energy cutoff that defines the  neglected virtual orbitals in Eh
 - `EWin EMin,EMax ` the same, but accessed as array
 - `RI false` use the RI approximation
+- `PAOOverlapThresh 1e-8` Threshold for constructing non-redundant PAOs
