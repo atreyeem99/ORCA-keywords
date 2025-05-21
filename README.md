@@ -504,3 +504,4 @@
 - `RI false` use the RI approximation
 - `PAOOverlapThresh 1e-8` Threshold for constructing non-redundant PAOs
 - `MDCI POLAR DIAG TENSOR` MDCI diagonaised polarizability tensor
+- `SOLVATION NPOINTS` Number of points for the Gaussian surface
