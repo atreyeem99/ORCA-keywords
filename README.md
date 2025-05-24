@@ -507,3 +507,4 @@
 - `SOLVATION NPOINTS` Number of points for the Gaussian surface
 - `ROUND` Round down to nearest integer
 - `JOB INFO MULT` Job Multiplicity
+- `SOLVATION SURFACE AREA` Surface area
