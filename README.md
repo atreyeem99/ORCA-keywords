@@ -509,3 +509,4 @@
 - `JOB INFO MULT` Job Multiplicity
 - `SOLVATION SURFACE AREA` Surface area
 - `SOLVATION NPOINTS` Number of points for the Gaussian surface
+- `THERMO TEMPERATURE` Temperature
