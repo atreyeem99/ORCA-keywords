@@ -510,3 +510,4 @@
 - `SOLVATION SURFACE AREA` Surface area
 - `SOLVATION NPOINTS` Number of points for the Gaussian surface
 - `THERMO TEMPERATURE` Temperature
+- `ROUND` Round down to nearest integer
