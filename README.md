@@ -511,3 +511,4 @@
 - `SOLVATION NPOINTS` Number of points for the Gaussian surface
 - `THERMO TEMPERATURE` Temperature
 - `ROUND` Round down to nearest integer
+- `Print[ P_UNO_ReducedOrbPopMO_L] = 0;` Loewdin reduced orbital
