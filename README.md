@@ -513,3 +513,4 @@
 - `ROUND` Round down to nearest integer
 - `Print[ P_UNO_ReducedOrbPopMO_L] = 0;` Loewdin reduced orbital
 - `AutoAuxTightB true` Only use B[l] for shells with high l and B[0] for the rest
+- `ALPB(water)` use implicit solvation, solvent water,
