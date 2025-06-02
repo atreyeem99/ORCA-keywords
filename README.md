@@ -516,3 +516,4 @@
 - `ALPB(water)` use implicit solvation, solvent water,
 - `XTBINPUTSTRING "argument 1" ` string passed on to XTB call
 - `MAXCORE 1024 ` memory in MB reserved for XTB calculation,
+- `ALPB(water)` use water
