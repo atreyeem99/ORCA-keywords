@@ -518,3 +518,4 @@
 - `MAXCORE 1024 ` memory in MB reserved for XTB calculation,
 - `ALPB(water)` use water
 - `SOCF 71` SOC for the f shell
+- `XTB2 # for GFN2-xTB. Synonym: GFN2-XTB
