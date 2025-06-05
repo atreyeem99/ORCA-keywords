@@ -519,3 +519,4 @@
 - `ALPB(water)` use water
 - `SOCF 71` SOC for the f shell
 - `XTB2 # for GFN2-xTB. Synonym: GFN2-XTB
+- `SOCP 69` SOC for the p shell
