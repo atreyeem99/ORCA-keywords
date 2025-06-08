@@ -522,3 +522,4 @@
 - `SOCP 69` SOC for the p shell
 - `SOCD 70` SOC for the d shell
 - `NR13 67` The nuclear attraction/repulsion parameter for MNDO/d
+- `XTB1` for GFN-XTB. Synonym: GFN-XTB
