@@ -524,3 +524,4 @@
 - `NR13 67` The nuclear attraction/repulsion parameter for MNDO/d
 - `XTB1` for GFN-XTB. Synonym: GFN-XTB
 - `ETemp 0` # electronic temperature, value for --etemp
+- `NSH 4 ` number of shells for the element
