@@ -525,3 +525,4 @@
 - `XTB1` for GFN-XTB. Synonym: GFN-XTB
 - `ETemp 0` # electronic temperature, value for --etemp
 - `NSH 4 ` number of shells for the element
+- `LShift 0.1` default: 0.25, energy unit is Eh.
