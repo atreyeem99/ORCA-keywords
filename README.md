@@ -529,3 +529,4 @@
 - `CNVDamp true ` default: true
 - `DampMax 0.99` default: 0.98
 - `OR`: DLPNO-MP2 with tighter thresholds
+- `ScalLDAC 0.55` # must be equal to ScalGGAC
