@@ -530,3 +530,4 @@
 - `DampMax 0.99` default: 0.98
 - `OR`: DLPNO-MP2 with tighter thresholds
 - `ScalLDAC 0.55` # must be equal to ScalGGAC
+- `PertCan_EThresh 1e-6` Energy threshold for special treatment of degenerate orbital pairs
