@@ -532,3 +532,4 @@
 - `ScalLDAC 0.55` # must be equal to ScalGGAC
 - `PertCan_EThresh 1e-6` Energy threshold for special treatment of degenerate orbital pairs
 - `RespGammaOnDisk true` Whether to store the 3-index densities on disk.
+- `Density` relaxed # required
