@@ -536,3 +536,4 @@
 - `sePertCanOrbs true`  Whether to use perturbed canonical orbitals for
 - `FCut 1e-5` Threshold for internal perturbed Fock elements
 - `RespDijConv false` Whether to store intermediates required for the internal block of the response density on disk
+- `FCut 1e-5` Threshold for internal perturbed Fock elements
