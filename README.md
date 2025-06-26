@@ -538,3 +538,4 @@
 - `RespDijConv false` Whether to store intermediates required for the internal block of the response density on disk
 - `FCut 1e-5` Threshold for internal perturbed Fock elements
 - `ZLoc_Shift 0.2` Shift for the Jacobi solver
+- `ZLoc_DVDMaxDim 10` During Davidson diagonalization, the space of trial  vectors is expanded up to MaxDim * DVDRoots.
