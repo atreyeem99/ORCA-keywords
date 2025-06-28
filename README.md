@@ -540,3 +540,4 @@
 - `ZLoc_Shift 0.2` Shift for the Jacobi solver
 - `ZLoc_DVDMaxDim 10` During Davidson diagonalization, the space of trial  vectors is expanded up to MaxDim * DVDRoots.
 - `DISK` Enforce disk-based two-pass algorithm
+- `RAM` Enforce memory-based one-pass algorithm
