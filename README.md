@@ -542,3 +542,4 @@
 - `DISK` Enforce disk-based two-pass algorithm
 - `RAM` Enforce memory-based one-pass algorithm
 - `BUFFERED` Buffered algorithm.
+- `ZLoc_DVDMaxDim 10` During Davidson diagonalization,
