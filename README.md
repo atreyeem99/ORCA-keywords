@@ -543,3 +543,4 @@
 - `RAM` Enforce memory-based one-pass algorithm
 - `BUFFERED` Buffered algorithm.
 - `ZLoc_DVDMaxDim 10` During Davidson diagonalization,
+- `TNOSCALES` 10.0 #TNO truncation scale for strong triples, TNOSCALES*TCutTNO. Default setting is 10.0
