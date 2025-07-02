@@ -544,3 +544,4 @@
 - `BUFFERED` Buffered algorithm.
 - `ZLoc_DVDMaxDim 10` During Davidson diagonalization,
 - `TNOSCALES` 10.0 #TNO truncation scale for strong triples, TNOSCALES*TCutTNO. Default setting is 10.0
+- `Calc_Hess true` calculation of the exact Hessian
