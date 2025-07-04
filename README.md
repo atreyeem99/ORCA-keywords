@@ -546,3 +546,4 @@
 - `TNOSCALES` 10.0 #TNO truncation scale for strong triples, TNOSCALES*TCutTNO. Default setting is 10.0
 - `Calc_Hess true` calculation of the exact Hessian
 - `fullScan true` do not abort the scan with !ScanTS
+- `TS_Mode {M 1} # {M 1}` mode with second lowest eigenvalue
