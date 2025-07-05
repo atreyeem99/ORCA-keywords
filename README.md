@@ -547,3 +547,4 @@
 - `Calc_Hess true` calculation of the exact Hessian
 - `fullScan true` do not abort the scan with !ScanTS
 - `TS_Mode {M 1} # {M 1}` mode with second lowest eigenvalue
+- `TS_Mode {B 1 5} ` bond between atoms 1 and 5,
