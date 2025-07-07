@@ -549,3 +549,4 @@
 - `TS_Mode {M 1} # {M 1}` mode with second lowest eigenvalue
 - `TS_Mode {B 1 5} ` bond between atoms 1 and 5,
 - `Trust <0 -` use fixed trust radius (default: -0.3 au)
+- `Trust >0 - `use trust radius update, i.e. 0.3 means:
