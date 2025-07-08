@@ -550,3 +550,4 @@
 - `TS_Mode {B 1 5} ` bond between atoms 1 and 5,
 - `Trust <0 -` use fixed trust radius (default: -0.3 au)
 - `Trust >0 - `use trust radius update, i.e. 0.3 means:
+- `IROOTMULT TRIPLET` would search in the triplet PES
