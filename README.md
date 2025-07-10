@@ -552,3 +552,4 @@
 - `Trust >0 - `use trust radius update, i.e. 0.3 means:
 - `IROOTMULT TRIPLET` would search in the triplet PES
 - `SF TRUE` would search for the S0-S1 CI from a T1 reference,
+- `2 {8168:8614} end` First the fragments need to be defined
