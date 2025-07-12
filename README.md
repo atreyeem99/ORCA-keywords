@@ -554,3 +554,4 @@
 - `SF TRUE` would search for the S0-S1 CI from a T1 reference,
 - `2 {8168:8614} end` First the fragments need to be defined
 - `3 {8615:8699} end` Note that all other atoms belong to
+- `{8700:8772} end` fragment 1 by default
