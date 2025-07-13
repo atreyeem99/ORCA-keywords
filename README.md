@@ -555,3 +555,4 @@
 - `2 {8168:8614} end` First the fragments need to be defined
 - `3 {8615:8699} end` Note that all other atoms belong to
 - `{8700:8772} end` fragment 1 by default
+- `RelaxFrags {2} end` Fragment 2 is fully relaxed
