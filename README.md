@@ -557,3 +557,4 @@
 - `{8700:8772} end` fragment 1 by default
 - `RelaxFrags {2} end` Fragment 2 is fully relaxed
 - `RigidFrags {3 4 5} end` Fragments 3, 4 and 5 are treated as rigid bodies each.
+- `CentralDiff true ` use central-differences (this is the default)
