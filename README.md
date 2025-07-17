@@ -559,3 +559,4 @@
 - `RigidFrags {3 4 5} end` Fragments 3, 4 and 5 are treated as rigid bodies each.
 - `CentralDiff true ` use central-differences (this is the default)
 - `Hess2ElFlags 1,2,2,1` use the RIJCOSX approximation
+- `ncrement 0.005` increment in bohr for the  differentiation
