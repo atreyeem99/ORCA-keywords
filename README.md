@@ -560,3 +560,4 @@
 - `CentralDiff true ` use central-differences (this is the default)
 - `Hess2ElFlags 1,2,2,1` use the RIJCOSX approximation
 - `ncrement 0.005` increment in bohr for the  differentiation
+- `%freq Hess2ElFlags 1,2,2,1` use the RIJCOSX approximation
