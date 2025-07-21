@@ -563,3 +563,4 @@
 - `%freq Hess2ElFlags 1,2,2,1` use the RIJCOSX approximation
 - `IntMode FullTrafo` exact transformation (lots of memory)
 - UseIVOs true/false` use improved virtual orbitals?
+- `DOTRANSfalse ALL` Transient spectra - starting from IROOT
