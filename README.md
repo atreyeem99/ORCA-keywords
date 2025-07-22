@@ -564,3 +564,4 @@
 - `IntMode FullTrafo` exact transformation (lots of memory)
 - UseIVOs true/false` use improved virtual orbitals?
 - `DOTRANSfalse ALL` Transient spectra - starting from IROOT
+- `CPCMEQ false ` Which epsilon is used to compute the charges.
