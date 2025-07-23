@@ -565,3 +565,4 @@
 - UseIVOs true/false` use improved virtual orbitals?
 - `DOTRANSfalse ALL` Transient spectra - starting from IROOT
 - `CPCMEQ false ` Which epsilon is used to compute the charges.
+- `#SOMO` Virtual excitations with #s not equal t
