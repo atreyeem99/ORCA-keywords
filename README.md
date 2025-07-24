@@ -566,3 +566,4 @@
 - `DOTRANSfalse ALL` Transient spectra - starting from IROOT
 - `CPCMEQ false ` Which epsilon is used to compute the charges.
 - `#SOMO` Virtual excitations with #s not equal t
+- `Do_is true` Include DOMO->SOMO excitations
