@@ -568,3 +568,4 @@
 - `#SOMO` Virtual excitations with #s not equal t
 - `Do_is true` Include DOMO->SOMO excitations
 - `DoCD false` Invokes the calculation of CD spectra
+- `RIXS false` Perform a RIXS calculation
