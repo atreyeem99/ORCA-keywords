@@ -571,3 +571,4 @@
 - `RIXS false` Perform a RIXS calculation
 - `RIXSSOC false` Perform a RIXS calculation on the basis
 - `PlotDiffDens = 1,2 ` Array input for plotting
+- `PlotSOCDiffDens=1,2`Array input for plotting
