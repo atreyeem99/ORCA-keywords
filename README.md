@@ -572,3 +572,4 @@
 - `RIXSSOC false` Perform a RIXS calculation on the basis
 - `PlotDiffDens = 1,2 ` Array input for plotting
 - `PlotSOCDiffDens=1,2`Array input for plotting
+- `DoNTO false` Request Natural Transition Orbital Analysis
