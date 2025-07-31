@@ -573,3 +573,4 @@
 - `PlotDiffDens = 1,2 ` Array input for plotting
 - `PlotSOCDiffDens=1,2`Array input for plotting
 - `DoNTO false` Request Natural Transition Orbital Analysis
+- `Do_is true` Include DOMO->SOMO excitations
