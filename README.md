@@ -575,3 +575,4 @@
 - `DoNTO false` Request Natural Transition Orbital Analysis
 - `Do_is true` Include DOMO->SOMO excitations
 - `NPointsPhi 10` Euler angles
+- Quad true` Request the multipole expansion up to 2nd orde
