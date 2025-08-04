@@ -577,3 +577,4 @@
 - `NPointsPhi 10` Euler angles
 - Quad true` Request the multipole expansion up to 2nd orde
 - `DoVelocity true` Request the calculation of the exact transition rate
+- `VirtualThresh 1.0` Virtual Orbital Selection Threshold
