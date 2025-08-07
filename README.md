@@ -580,3 +580,4 @@
 - `VirtualThresh 1.0` Virtual Orbital Selection Threshold
 - `NRRSPoints 5000` umber of points to simulate rR spectra (cm**-1)
 - `RSRange 0, 5000` spectral range for simulation of rR spectra (cm**-1)
+- `RRS_FWHM 10` 
