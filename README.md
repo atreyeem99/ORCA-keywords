@@ -581,3 +581,4 @@
 - `NRRSPoints 5000` umber of points to simulate rR spectra (cm**-1)
 - `RSRange 0, 5000` spectral range for simulation of rR spectra (cm**-1)
 - `RRS_FWHM 10` 
+- `quanta 1; ` final vibrational state for the fundamental band corresponding to mode 9
