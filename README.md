@@ -582,3 +582,4 @@
 - `RSRange 0, 5000` spectral range for simulation of rR spectra (cm**-1)
 - `RRS_FWHM 10` 
 - `quanta 1; ` final vibrational state for the fundamental band corresponding to mode 9
+- `quanta 3` final vibrational state for the second overtone band corresponding to mode 5
