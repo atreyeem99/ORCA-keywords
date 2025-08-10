@@ -583,3 +583,4 @@
 - `RRS_FWHM 10` 
 - `quanta 1; ` final vibrational state for the fundamental band corresponding to mode 9
 - `quanta 3` final vibrational state for the second overtone band corresponding to mode 5
+- `quanta 1` final vibrational state for the fundamental band corresponding to mode 1
