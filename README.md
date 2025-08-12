@@ -585,3 +585,4 @@
 - `quanta 3` final vibrational state for the second overtone band corresponding to mode 5
 - `quanta 1` final vibrational state for the fundamental band corresponding to mode 1
 - `NRRPPoints CAR 0.8 2000` number of points for simulation of rR profiles
+- `Fit true` Global flag to turn on the fit
