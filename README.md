@@ -587,3 +587,4 @@
 - `NRRPPoints CAR 0.8 2000` number of points for simulation of rR profiles
 - `Fit true` Global flag to turn on the fit
 - `AbsFit true` Flag to include absorption into the fit
+- `NMaxFunc 10000` maximum number of function evaluations in simplex
