@@ -588,3 +588,4 @@
 - `Fit true` Global flag to turn on the fit
 - `AbsFit true` Flag to include absorption into the fit
 - `NMaxFunc 10000` maximum number of function evaluations in simplex
+- `AbsName "absexp.dat"` name of the file containing experimental
