@@ -589,3 +589,4 @@
 - `AbsFit true` Flag to include absorption into the fit
 - `NMaxFunc 10000` maximum number of function evaluations in simplex
 - `AbsName "absexp.dat"` name of the file containing experimental
+- `NRRSPoints 5000` umber of points to simulate rR spectra (cm**-1)
