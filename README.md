@@ -592,3 +592,4 @@
 - `NRRSPoints 5000` umber of points to simulate rR spectra (cm**-1)
 - `PlotDiffDens = 1,2 ` Array input for plotting
 - `JOB INFO MULT` Job Multiplicity
+- `LARGEPRINT` to generate orbotal plots
