@@ -593,3 +593,4 @@
 - `PlotDiffDens = 1,2 ` Array input for plotting
 - `JOB INFO MULT` Job Multiplicity
 - `LARGEPRINT` to generate orbotal plots
+- `PLOTS` Control of plot generation
