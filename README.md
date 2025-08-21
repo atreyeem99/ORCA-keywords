@@ -594,3 +594,4 @@
 - `JOB INFO MULT` Job Multiplicity
 - `LARGEPRINT` to generate orbotal plots
 - `PLOTS` Control of plot generation
+- `RIXSSOC false` Perform a RIXS calculation on the basis
