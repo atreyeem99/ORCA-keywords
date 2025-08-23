@@ -596,3 +596,4 @@
 - `PLOTS` Control of plot generation
 - `RIXSSOC false` Perform a RIXS calculation on the basis
 - `VirtualThresh 1.0` Virtual Orbital Selection Threshold
+- `DoNTO false` Request Natural Transition Orbital Analysis
