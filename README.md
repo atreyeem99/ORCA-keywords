@@ -598,3 +598,4 @@
 - `VirtualThresh 1.0` Virtual Orbital Selection Threshold
 - `DoNTO false` Request Natural Transition Orbital Analysis
 - `PlotDiffDens = 1,2 ` Array input for plotting
+- `RIXS false` Perform a RIXS calculation
