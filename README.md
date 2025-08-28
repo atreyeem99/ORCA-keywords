@@ -601,3 +601,4 @@
 - `RIXS false` Perform a RIXS calculation
 - `Hess2ElFlags 1,2,2,1` use the RIJCOSX approximation
 - `IntMode FullTrafo` exact transformation (lots of memory)
+- `Calc_Hess true` calculation of the exact Hessian
