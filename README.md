@@ -603,3 +603,4 @@
 - `IntMode FullTrafo` exact transformation (lots of memory)
 - `Calc_Hess true` calculation of the exact Hessian
 - `IROOTMULT TRIPLET` would search in the triplet PES
+- `PARAS` Input of semi-empirical parameters
