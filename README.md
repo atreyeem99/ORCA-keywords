@@ -605,3 +605,4 @@
 - `IROOTMULT TRIPLET` would search in the triplet PES
 - `PARAS` Input of semi-empirical parameters
 - `symmetry` Control of spatial symmetry recognition
+- `USEJ` Consider Duschinsky rotations
