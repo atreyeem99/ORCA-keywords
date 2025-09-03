@@ -607,3 +607,4 @@
 - `symmetry` Control of spatial symmetry recognition
 - `USEJ` Consider Duschinsky rotations
 - `AUTOAUX` is used when correlated method can be obtained without special basis set
+-  `Mode sTDA` Invokes a sTDA calculation
