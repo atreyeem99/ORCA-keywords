@@ -610,3 +610,4 @@
 -  `Mode sTDA` Invokes a sTDA calculation
 - `SuperCI_PT ` perturbative SuperCI (first order)
 -  `NOMAYER` Turns off the Mayer analysis
+-  `NRRPPoints CAR 0.8 2000` number of points for simulation of rR profiles
