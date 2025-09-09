@@ -613,3 +613,4 @@
 -  `NRRPPoints CAR 0.8 2000` number of points for simulation of rR profiles
 - `LARGEPRINT` to generate orbotal plots
 - `JOB INFO MULT` Job Multiplicity
+- `EPRNMR` Control of EPR and NMR calculations
