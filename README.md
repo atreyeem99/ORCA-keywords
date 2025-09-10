@@ -614,3 +614,4 @@
 - `LARGEPRINT` to generate orbotal plots
 - `JOB INFO MULT` Job Multiplicity
 - `EPRNMR` Control of EPR and NMR calculations
+- `CTyp xyz`the type of coordinates xyz or internal
