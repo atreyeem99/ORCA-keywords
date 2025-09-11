@@ -615,3 +615,4 @@
 - `JOB INFO MULT` Job Multiplicity
 - `EPRNMR` Control of EPR and NMR calculations
 - `CTyp xyz`the type of coordinates xyz or internal
+- `MP2` Selects Method=HF and DoMP2=true
