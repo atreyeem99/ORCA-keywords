@@ -617,3 +617,4 @@
 - `CTyp xyz`the type of coordinates xyz or internal
 - `MP2` Selects Method=HF and DoMP2=true
 - `KEEPDENS` to keep the basename.scfp density file, which will later be used to plot the density
+-  `PMOS`  based on orthogonalization tails.
