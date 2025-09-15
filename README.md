@@ -619,3 +619,4 @@
 - `KEEPDENS` to keep the basename.scfp density file, which will later be used to plot the density
 -  `PMOS`  based on orthogonalization tails.
 - `useoldints ` Use the transformed integrals found on disk
+- `RIJCOSX`approximations made for large molecules in TDDFT calculations.
