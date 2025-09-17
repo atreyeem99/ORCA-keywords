@@ -621,3 +621,4 @@
 - `useoldints ` Use the transformed integrals found on disk
 - `RIJCOSX`approximations made for large molecules in TDDFT calculations.
 - `SDO` Single Determinant Orbital
+- `NOPRINTMOS` Suppress printing of MO coefficients
