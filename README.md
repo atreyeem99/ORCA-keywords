@@ -622,3 +622,4 @@
 - `RIJCOSX`approximations made for large molecules in TDDFT calculations.
 - `SDO` Single Determinant Orbital
 - `NOPRINTMOS` Suppress printing of MO coefficients
+- `usekramerssym true` use Kramers symmetry for the CI
