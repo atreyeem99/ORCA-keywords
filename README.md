@@ -623,3 +623,4 @@
 - `SDO` Single Determinant Orbital
 - `NOPRINTMOS` Suppress printing of MO coefficients
 - `usekramerssym true` use Kramers symmetry for the CI
+- `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
