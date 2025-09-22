@@ -625,3 +625,4 @@
 - `usekramerssym true` use Kramers symmetry for the CI
 - `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
 - `Monitor_Internals ` Up to three internal coordinates can be defined
+- `CEPA/1` Coupled-electron-pair approximation
