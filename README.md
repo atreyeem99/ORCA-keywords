@@ -627,3 +627,4 @@
 - `Monitor_Internals ` Up to three internal coordinates can be defined
 - `CEPA/1` Coupled-electron-pair approximation
 - `DoBeta ` Removal/addition of beta electrons
+- `RIXS false` Perform a RIXS calculation
