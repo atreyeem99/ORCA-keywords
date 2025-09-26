@@ -629,3 +629,4 @@
 - `DoBeta ` Removal/addition of beta electrons
 - `RIXS false` Perform a RIXS calculation
 - `TIGHTOPT` or `VERYTIGHTOPT` for tightly optimizing structures
+- `VeN` nuclear attraction term
