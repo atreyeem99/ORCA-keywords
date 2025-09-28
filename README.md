@@ -631,3 +631,4 @@
 - `TIGHTOPT` or `VERYTIGHTOPT` for tightly optimizing structures
 - `VeN` nuclear attraction term
 - `TEMP` for mentioning the temperature at which the property is to be measured
+-  `orbOpt true` turns on the orbital optimization
