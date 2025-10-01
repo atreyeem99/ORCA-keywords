@@ -634,3 +634,4 @@
 -  `orbOpt true` turns on the orbital optimization
 - `USEJ` Consider Duschinsky rotations
 - `ReducePrint true `reduce printout after the first point default=true
+- `actorbs locorbs ` use localized active MOs.
