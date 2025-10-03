@@ -636,3 +636,4 @@
 - `ReducePrint true `reduce printout after the first point default=true
 - `actorbs locorbs ` use localized active MOs.
 -  `UNRELAXED` Unrelaxed 1-body density matrix
+- `udex.inp:` list of energies for taking cuts at constant Excitation Energy axis
