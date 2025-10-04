@@ -637,3 +637,4 @@
 - `actorbs locorbs ` use localized active MOs.
 -  `UNRELAXED` Unrelaxed 1-body density matrix
 - `udex.inp:` list of energies for taking cuts at constant Excitation Energy axis
+- `FICMRACPF ` Fully internally contracted ACPF
