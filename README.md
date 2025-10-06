@@ -639,3 +639,4 @@
 - `udex.inp:` list of energies for taking cuts at constant Excitation Energy axis
 - `FICMRACPF ` Fully internally contracted ACPF
 - `PWLDA` Local spin density (PW-LDA)
+- `IDPP_ksp`  spring constant used to scale the spring force parallel to the path.
