@@ -641,3 +641,4 @@
 - `PWLDA` Local spin density (PW-LDA)
 - `IDPP_ksp`  spring constant used to scale the spring force parallel to the path.
 - `Scan B N1 N2 [value1 value2 value3 ... valueN] end` perform constrained optimizations with N1-N2-distances
+-  `TolMaxG` 2.e-3Max. element of gradient (a.u.)
