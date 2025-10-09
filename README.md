@@ -643,3 +643,4 @@
 - `Scan B N1 N2 [value1 value2 value3 ... valueN] end` perform constrained optimizations with N1-N2-distances
 -  `TolMaxG` 2.e-3Max. element of gradient (a.u.)
 - ` `UNO` Produce UHF natural orbitals
+-  `NRRPPoints CAR 0.8 2000` number of points for simulation of rR profiles
