@@ -645,3 +645,4 @@
 - ` `UNO` Produce UHF natural orbitals
 -  `NRRPPoints CAR 0.8 2000` number of points for simulation of rR profiles
 - `SDO` Single Determinant Orbital
+- `AUTOSTART` Try to start from the existing GBW file of the same name as the present one (only for single-point calculations)
