@@ -647,3 +647,4 @@
 - `SDO` Single Determinant Orbital
 - `AUTOSTART` Try to start from the existing GBW file of the same name as the present one (only for single-point calculations)
 - `SpinDens("MySpinDens");` Spin density
+- `PLOTS` Control of plot generation
