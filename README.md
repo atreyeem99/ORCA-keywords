@@ -649,3 +649,4 @@
 - `SpinDens("MySpinDens");` Spin density
 - `PLOTS` Control of plot generation
 - `SCALING` caling for frequencies
+- `sameFrreq` use DO method and J=1.
