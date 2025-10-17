@@ -651,3 +651,4 @@
 - `SCALING` caling for frequencies
 - `sameFrreq` use DO method and J=1.
 - `HUECKEL` Selects the extended Hückel guess
+- `MAYER` Turns on the Mayer analysis
