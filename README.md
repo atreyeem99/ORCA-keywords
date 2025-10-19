@@ -653,3 +653,4 @@
 - `HUECKEL` Selects the extended Hückel guess
 - `MAYER` Turns on the Mayer analysis
 - `FIC-DDCI3` Fully internally contracted DDCI3
+-  `ProjectTR false ` project translation and rotation
