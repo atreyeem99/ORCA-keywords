@@ -654,3 +654,4 @@
 - `MAYER` Turns on the Mayer analysis
 - `FIC-DDCI3` Fully internally contracted DDCI3
 -  `ProjectTR false ` project translation and rotation
+-  `TightSCF` for tight convergence
