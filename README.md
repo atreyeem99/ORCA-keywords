@@ -656,3 +656,4 @@
 -  `ProjectTR false ` project translation and rotation
 -  `TightSCF` for tight convergence
 - `FICMRACPF ` Fully internally contracted ACPF
+- `NOMAYER` Turns off the Mayer analysis
