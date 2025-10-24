@@ -658,3 +658,4 @@
 - `FICMRACPF ` Fully internally contracted ACPF
 - `NOMAYER` Turns off the Mayer analysis
 - `THERMO TEMPERATURE` Temperature
+- `TDIP` ustom transition dipole
