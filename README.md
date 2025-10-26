@@ -660,3 +660,4 @@
 - `THERMO TEMPERATURE` Temperature
 - `TDIP` ustom transition dipole
 - `algorithm 1` Is perhaps the best for small systems.
+- `DELRE` Custom energy difference
