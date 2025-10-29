@@ -663,3 +663,4 @@
 - `DELRE` Custom energy difference
 - `IROOTMULT TRIPLET` would search in the triplet PES
 - `NMREquiv` lists of NMR-equicalent nuclei
+- `Mode sTDA` Invokes a sTDA calculation
