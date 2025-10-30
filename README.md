@@ -664,3 +664,4 @@
 - `IROOTMULT TRIPLET` would search in the triplet PES
 - `NMREquiv` lists of NMR-equicalent nuclei
 - `Mode sTDA` Invokes a sTDA calculation
+- `Delta` The DELTA lineshape might lead to a correlation function that oscillates forever, so please take care with that option.
