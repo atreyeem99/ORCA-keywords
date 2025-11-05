@@ -670,3 +670,4 @@
 -  `ESD(ISC)` intersystem crossing calculation
 - `DELTA` lineshape might lead to a correlation function that oscillates forever, so please take care with that option.
 - `STEPCONSTR` A list of atoms that will not be moved
+- `Free_End false` Use free-end NEB.
