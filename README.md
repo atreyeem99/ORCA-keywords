@@ -672,3 +672,4 @@
 - `STEPCONSTR` A list of atoms that will not be moved
 - `Free_End false` Use free-end NEB.
 -  `KDIIS` Turns Kollmar’s DIIS on
+- `FockFlag SHARK_libint_hybrid` # default: best of both worlds
