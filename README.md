@@ -673,4 +673,5 @@
 - `Free_End false` Use free-end NEB.
 -  `KDIIS` Turns Kollmar’s DIIS on
 - `FockFlag SHARK_libint_hybrid` # default: best of both worlds
-- - `alpha1 value` Constant part of K integral parameter alpha
+-  `alpha1 value` Constant part of K integral parameter alpha
+- `JOB INFO MULT` Job Multiplicity
