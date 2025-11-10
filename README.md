@@ -675,3 +675,4 @@
 - `FockFlag SHARK_libint_hybrid` # default: best of both worlds
 -  `alpha1 value` Constant part of K integral parameter alpha
 - `JOB INFO MULT` Job Multiplicity
+-  `VIRT` Localize the virtual space
