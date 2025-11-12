@@ -677,3 +677,4 @@
 - `JOB INFO MULT` Job Multiplicity
 -  `VIRT` Localize the virtual space
 - `SOLVATION SURFACE AREA` Surface area
+-  `IDPP_Alpha` multiplicative factor to scale the size of the step ineach opt. cycle
