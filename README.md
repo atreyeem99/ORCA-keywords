@@ -679,3 +679,4 @@
 - `SOLVATION SURFACE AREA` Surface area
 -  `IDPP_Alpha` multiplicative factor to scale the size of the step ineach opt. cycle
 - `NBO` Turns on the interface for the NPA plus NBO analysis with the GENNBO pro- gram
+- `NMREquiv` lists of NMR-equicalent nuclei
