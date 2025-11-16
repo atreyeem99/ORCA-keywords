@@ -681,3 +681,4 @@
 - `NBO` Turns on the interface for the NPA plus NBO analysis with the GENNBO pro- gram
 - `NMREquiv` lists of NMR-equicalent nuclei
 - `D3TPre` 1e-14 # Density truncation in D3
+- `RIJCOSX`approximations made for large molecules in TDDFT calculations.
