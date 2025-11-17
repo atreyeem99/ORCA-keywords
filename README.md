@@ -682,3 +682,4 @@
 - `NMREquiv` lists of NMR-equicalent nuclei
 - `D3TPre` 1e-14 # Density truncation in D3
 - `RIJCOSX`approximations made for large molecules in TDDFT calculations.
+- `ZORA` including relativistic correlation
