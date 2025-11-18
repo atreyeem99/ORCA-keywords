@@ -683,3 +683,4 @@
 - `D3TPre` 1e-14 # Density truncation in D3
 - `RIJCOSX`approximations made for large molecules in TDDFT calculations.
 - `ZORA` including relativistic correlation
+- `ZEF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
