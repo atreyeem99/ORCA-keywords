@@ -684,4 +684,4 @@
 - `RIJCOSX`approximations made for large molecules in TDDFT calculations.
 - `ZORA` including relativistic correlation
 - `ZEF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
-- 'zora'
+- `axstda` Fock exchange parameter used in sTDA/sTD-DFT calculation (for range-separated hybrids)
