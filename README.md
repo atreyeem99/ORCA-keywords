@@ -685,3 +685,4 @@
 - `ZORA` including relativistic correlation
 - `ZEF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
 - `axstda` Fock exchange parameter used in sTDA/sTD-DFT calculation (for range-separated hybrids)
+-  `FICMRACPF ` Fully internally contracted ACPF
