@@ -687,3 +687,4 @@
 - `axstda` Fock exchange parameter used in sTDA/sTD-DFT calculation (for range-separated hybrids)
 -  `FICMRACPF ` Fully internally contracted ACPF
 -  `Excitations cisd` Type of excitations
+- `ReConvCharge 1` default is 1. Redo charge convergence scheme every N steps.
