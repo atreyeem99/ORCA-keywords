@@ -689,3 +689,4 @@
 -  `Excitations cisd` Type of excitations
 - `ReConvCharge 1` default is 1. Redo charge convergence scheme every N steps.
 - `nroots 4,2 ` four singlets, two triplets
+- `SCALING` caling for frequencies
