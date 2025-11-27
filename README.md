@@ -691,3 +691,4 @@
 - `nroots 4,2 ` four singlets, two triplets
 - `SCALING` caling for frequencies
 - `Trust -0.3 ` Initial trust radius. Default is -0.3 au
+- `VirtualThresh 1.0` Virtual Orbital Selection Threshold
