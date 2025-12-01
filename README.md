@@ -695,3 +695,4 @@
 - `NOTRAH` Turns trust-region augmented Hessian SCF off
 - `COPT` Optimization in Cartesian coordinates
 -  `MAYER` Turns on the Mayer analysis
+-  `NOTRAH` Turns trust-region augmented Hessian SCF
