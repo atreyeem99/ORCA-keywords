@@ -699,3 +699,4 @@
 -  `NBO` Turns on the interface for the NPA plus NBO analysis with the GENNBO pro- gram
 - `PATOM` Selects the polarized atoms guess
 - `NOPRINTMOS` Suppress printing of MO coefficients
+- `CTyp xyz`the type of coordinates xyz or internal
