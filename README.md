@@ -701,3 +701,4 @@
 - `NOPRINTMOS` Suppress printing of MO coefficients
 - `CTyp xyz`the type of coordinates xyz or internal
 - `TEMP` for mentioning the temperature at which the property is to be measured
+-  `Mode sTDA` Invokes a sTDA calculation
