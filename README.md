@@ -703,3 +703,4 @@
 - `TEMP` for mentioning the temperature at which the property is to be measured
 -  `Mode sTDA` Invokes a sTDA calculation
 - `LINEARIZED` Linear part of the density
+- `CI-NEB` calculation is carried out to obtain a rough convergence towards the MEP
