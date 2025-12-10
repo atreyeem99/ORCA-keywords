@@ -704,3 +704,4 @@
 -  `Mode sTDA` Invokes a sTDA calculation
 - `LINEARIZED` Linear part of the density
 - `CI-NEB` calculation is carried out to obtain a rough convergence towards the MEP
+- `Decontract` Decontract all (orbital and auxiliary) basis sets
