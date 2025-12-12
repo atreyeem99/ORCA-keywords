@@ -706,3 +706,4 @@
 - `CI-NEB` calculation is carried out to obtain a rough convergence towards the MEP
 - `Decontract` Decontract all (orbital and auxiliary) basis sets
 - `D3TPre` 1e-14 # Density truncation in D3
+- `LOOSEOPT` Selects loose optimization convergence
