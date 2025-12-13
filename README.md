@@ -707,3 +707,4 @@
 - `Decontract` Decontract all (orbital and auxiliary) basis sets
 - `D3TPre` 1e-14 # Density truncation in D3
 - `LOOSEOPT` Selects loose optimization convergence
+- `soln25` index of refraction at optical frequencies at 298 K
