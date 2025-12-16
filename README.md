@@ -710,3 +710,4 @@
 - `soln25` index of refraction at optical frequencies at 298 K
 - `KDIIS` Turns Kollmar’s DIIS on
 - `Constraints` to fix distances of atoms
+- `UF_DELE` Energy difference for updated freq.
