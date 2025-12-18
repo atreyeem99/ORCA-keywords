@@ -712,3 +712,4 @@
 - `Constraints` to fix distances of atoms
 - `UF_DELE` Energy difference for updated freq.
 - `QUICKDOCK` simple keyord to set DOCKLEVEL QUICK
+- `FICDDCI3` FIC-MRCI without the IJAB excitation
