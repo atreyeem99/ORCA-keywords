@@ -714,3 +714,4 @@
 - `QUICKDOCK` simple keyord to set DOCKLEVEL QUICK
 - `FICDDCI3` FIC-MRCI without the IJAB excitation
 - `CEPA/1` Coupled-electron-pair approximation
+- `irrep 0`  requested irrep for mult block
