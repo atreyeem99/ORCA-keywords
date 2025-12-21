@@ -715,3 +715,4 @@
 - `FICDDCI3` FIC-MRCI without the IJAB excitation
 - `CEPA/1` Coupled-electron-pair approximation
 - `irrep 0`  requested irrep for mult block
+- `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
