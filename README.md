@@ -718,3 +718,4 @@
 - `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
 - `GBW1 "ScanName.003.gbw" ` the gbw-files of the structures
 - `UNO` Produce UHF natural orbitals
+- `OptGuess= OneElec ` the one electron matrix
