@@ -719,3 +719,4 @@
 - `GBW1 "ScanName.003.gbw" ` the gbw-files of the structures
 - `UNO` Produce UHF natural orbitals
 - `OptGuess= OneElec ` the one electron matrix
+- `ACPF` averaged coupled-pair functional
