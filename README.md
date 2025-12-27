@@ -721,3 +721,4 @@
 - `OptGuess= OneElec ` the one electron matrix
 - `ACPF` averaged coupled-pair functional
 - `Monitor_Internals ` Up to three internal coordinates can be defined
+-  `EPRNMR` Control of EPR and NMR calculations
