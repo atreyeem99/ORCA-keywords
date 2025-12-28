@@ -722,3 +722,4 @@
 - `ACPF` averaged coupled-pair functional
 - `Monitor_Internals ` Up to three internal coordinates can be defined
 -  `EPRNMR` Control of EPR and NMR calculations
+- `MDCI POLAR DIAG TENSOR` MDCI diagonaised polarizability tensor
