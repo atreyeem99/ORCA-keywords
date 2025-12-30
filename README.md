@@ -724,3 +724,4 @@
 -  `EPRNMR` Control of EPR and NMR calculations
 - `MDCI POLAR DIAG TENSOR` MDCI diagonaised polarizability tensor
 - `LINEARIZED` Linear part of the density
+- `VdwAngularGrid 2`  same scheme as the SCF ones
