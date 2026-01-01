@@ -726,3 +726,4 @@
 - `LINEARIZED` Linear part of the density
 - `VdwAngularGrid 2`  same scheme as the SCF ones
 - `PertCan_EThresh 1e-6` Energy threshold for special treatment of degenerate orbital pairs
+- `Charge -2` # the total charge of the molecule
