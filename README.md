@@ -728,3 +728,4 @@
 - `PertCan_EThresh 1e-6` Energy threshold for special treatment of degenerate orbital pairs
 - `Charge -2` # the total charge of the molecule
 - `algorithm 1` Is perhaps the best for small systems.
+- `PTLimit Value` Energy threshold up to which CSFs beyond EThresh may be selected (in eV)
