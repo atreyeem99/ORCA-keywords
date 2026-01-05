@@ -730,3 +730,4 @@
 - `algorithm 1` Is perhaps the best for small systems.
 - `PTLimit Value` Energy threshold up to which CSFs beyond EThresh may be selected (in eV)
 - `NoTrah` Turns trust-region augmented Hessian SCF off
+- `TightPNO` is used for steom calculations
