@@ -731,3 +731,4 @@
 - `PTLimit Value` Energy threshold up to which CSFs beyond EThresh may be selected (in eV)
 - `NoTrah` Turns trust-region augmented Hessian SCF off
 - `TightPNO` is used for steom calculations
+- `axstda` Fock exchange parameter used in sTDA/sTD-DFT calculation (for range-separated hybrids)
