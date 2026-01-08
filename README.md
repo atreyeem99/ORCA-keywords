@@ -733,3 +733,4 @@
 - `TightPNO` is used for steom calculations
 - `axstda` Fock exchange parameter used in sTDA/sTD-DFT calculation (for range-separated hybrids)
 - `diisstartiter 2 ` Apply DIIS starting at iteration 1
+- `CEPA0` linearized CCSD
