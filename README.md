@@ -735,3 +735,4 @@
 - `diisstartiter 2 ` Apply DIIS starting at iteration 1
 - `CEPA0` linearized CCSD
 - `UF_DELE` Energy difference for updated freq.
+- `NOTRAH` Turns trust-region augmented Hessian SCF off
