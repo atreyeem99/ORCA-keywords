@@ -736,3 +736,4 @@
 - `CEPA0` linearized CCSD
 - `UF_DELE` Energy difference for updated freq.
 - `NOTRAH` Turns trust-region augmented Hessian SCF off
+- `PWLDA` Local spin density (PW-LDA)
