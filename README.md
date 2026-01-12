@@ -737,3 +737,4 @@
 - `UF_DELE` Energy difference for updated freq.
 - `NOTRAH` Turns trust-region augmented Hessian SCF off
 - `PWLDA` Local spin density (PW-LDA)
+- `MP2-F12` MP2 with F12 correction
