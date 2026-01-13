@@ -738,3 +738,4 @@
 - `NOTRAH` Turns trust-region augmented Hessian SCF off
 - `PWLDA` Local spin density (PW-LDA)
 - `MP2-F12` MP2 with F12 correction
+- `Delta` The DELTA lineshape might lead to a correlation function that oscillates forever, so please take care with that option.
