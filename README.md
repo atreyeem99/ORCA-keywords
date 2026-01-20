@@ -745,3 +745,4 @@
 -  `Delta` The DELTA lineshape might lead to a correlation function that oscillates forever, so please take care with that option.
 - `Free_End false` se free-end NEB. In this case the NImages corresponds to the total number of images.
 - `OptGuess= OneElec ` the one electron matrix
+- `force_shark` Force Shark where possible
