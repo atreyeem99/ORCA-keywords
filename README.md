@@ -746,3 +746,4 @@
 - `Free_End false` se free-end NEB. In this case the NImages corresponds to the total number of images.
 - `OptGuess= OneElec ` the one electron matrix
 - `force_shark` Force Shark where possible
+- `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
