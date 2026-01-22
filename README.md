@@ -747,3 +747,4 @@
 - `OptGuess= OneElec ` the one electron matrix
 - `force_shark` Force Shark where possible
 - `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
+- `FASTDER` Use the fast derivatives algorithm?
