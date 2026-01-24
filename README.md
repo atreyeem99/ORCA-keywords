@@ -749,3 +749,4 @@
 - `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
 - `FASTDER` Use the fast derivatives algorithm?
 - `TDIP` Custom transition dipole
+- `USEB` Rotate the initial state?
