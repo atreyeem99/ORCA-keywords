@@ -750,3 +750,4 @@
 - `FASTDER` Use the fast derivatives algorithm?
 - `TDIP` Custom transition dipole
 - `USEB` Rotate the initial state?
+- `density` type of density requested
