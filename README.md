@@ -751,3 +751,4 @@
 - `TDIP` Custom transition dipole
 - `USEB` Rotate the initial state?
 - `density` type of density requested
+- `Random`Always take the same seed for start for localization
