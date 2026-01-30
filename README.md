@@ -755,3 +755,4 @@
 - `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
 - `OCC` Localize the occupied space
 - `orbOpt true` turns on the orbital optimization
+- `L-SR1` is set by default for DeltaSCF
