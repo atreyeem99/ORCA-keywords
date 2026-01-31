@@ -756,3 +756,4 @@
 - `OCC` Localize the occupied space
 - `orbOpt true` turns on the orbital optimization
 - `L-SR1` is set by default for DeltaSCF
+- `Gaussian Constraints ` List defining the constraints for the Gaussian optimizer.
