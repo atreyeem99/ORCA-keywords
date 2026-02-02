@@ -758,3 +758,4 @@
 - `L-SR1` is set by default for DeltaSCF
 - `Gaussian Constraints ` List defining the constraints for the Gaussian optimizer.
 - `IDPP_ksp` spring constant used to scale the spring force parallel to the path.
+- `PRINTMOS` Prints MO coeffecients
