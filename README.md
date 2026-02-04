@@ -760,3 +760,4 @@
 - `IDPP_ksp` spring constant used to scale the spring force parallel to the path.
 - `PRINTMOS` Prints MO coeffecients
 - `Mode sTDA` Invokes a sTDA calculation
+- `diisstartiter 2 ` Apply DIIS starting at iteration 1
