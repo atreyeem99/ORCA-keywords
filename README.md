@@ -763,3 +763,4 @@
 - `diisstartiter 2 ` Apply DIIS starting at iteration 1
 - `RSteps and LSteps` specify the number of steps in positive and negative direction along each mode in the list.
 - `VIRT` Localize the virtual space
+- `OCC` Localize the occupied space
