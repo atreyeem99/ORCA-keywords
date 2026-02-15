@@ -771,3 +771,4 @@
 - `FIC-DDCI3` Fully internally contracted DDCI3
 - `VOIGT` The default lineshape for resonant Raman is VOIGT.
 - `VEFF-SOC` Invokes the VEFF-SOC treatment of the spin-orbit coupling operator.
+- `DoAlpha` Removal/addition of alpha electrons
