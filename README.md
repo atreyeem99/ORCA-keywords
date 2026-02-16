@@ -772,3 +772,4 @@
 - `VOIGT` The default lineshape for resonant Raman is VOIGT.
 - `VEFF-SOC` Invokes the VEFF-SOC treatment of the spin-orbit coupling operator.
 - `DoAlpha` Removal/addition of alpha electrons
+- `Skeleton` Draw Skeleton of the molecule of those atoms that are in or close to the cut
