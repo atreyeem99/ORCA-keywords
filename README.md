@@ -773,3 +773,4 @@
 - `VEFF-SOC` Invokes the VEFF-SOC treatment of the spin-orbit coupling operator.
 - `DoAlpha` Removal/addition of alpha electrons
 - `Skeleton` Draw Skeleton of the molecule of those atoms that are in or close to the cut
+- `PRINTLEVEL` can be set to HIGH in order to print more details. 1,2,3,4
