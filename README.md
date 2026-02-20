@@ -776,3 +776,4 @@
 - `PRINTLEVEL` can be set to HIGH in order to print more details. 1,2,3,4
 - `ELPROP` Control of electric property calculations
 - `COORSYS` Coordinate system for the normal modes
+- `Split_rij_2003` Highly efficient re-implementation of the Original 2003 algorithm. Mostly used!
