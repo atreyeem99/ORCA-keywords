@@ -777,3 +777,4 @@
 - `ELPROP` Control of electric property calculations
 - `COORSYS` Coordinate system for the normal modes
 - `Split_rij_2003` Highly efficient re-implementation of the Original 2003 algorithm. Mostly used!
+- `FIC-DDCI3` Fully internally contracted DDCI3 
