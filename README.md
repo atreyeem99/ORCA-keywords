@@ -778,3 +778,4 @@
 - `COORSYS` Coordinate system for the normal modes
 - `Split_rij_2003` Highly efficient re-implementation of the Original 2003 algorithm. Mostly used!
 - `FIC-DDCI3` Fully internally contracted DDCI3 
+- `The fic-MRCC` module can be started by specifying the CIType keyword in the %autoci block or by adding fic-MRCC to the simple input line of an ORCA
