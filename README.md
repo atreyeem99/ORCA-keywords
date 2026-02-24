@@ -779,4 +779,4 @@
 - `Split_rij_2003` Highly efficient re-implementation of the Original 2003 algorithm. Mostly used!
 - `FIC-DDCI3` Fully internally contracted DDCI3 
 - `The fic-MRCC` module can be started by specifying the CIType keyword in the %autoci block or by adding fic-MRCC to the simple input line of an ORCA
-- `T_Bond` Thresh that classifies orbitals in bond-like at the printing
+- `T_Bond` Thresh that classifies orbitals in bond-like at the printing - `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
