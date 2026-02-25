@@ -780,3 +780,4 @@
 - `FIC-DDCI3` Fully internally contracted DDCI3 
 - `The fic-MRCC` module can be started by specifying the CIType keyword in the %autoci block or by adding fic-MRCC to the simple input line of an ORCA
 - `T_Bond` Thresh that classifies orbitals in bond-like at the printing - `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
+- `ExpAbsScaleMode Ext` This keyword indicates that the experimental
