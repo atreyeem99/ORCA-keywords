@@ -782,3 +782,4 @@
 - `T_Bond` Thresh that classifies orbitals in bond-like at the printing - `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
 - `ExpAbsScaleMode Ext` This keyword indicates that the experimental
 - `sameFrreq` use DO method and J=1.
+- `PATOM` Selects the polarized atoms guess
