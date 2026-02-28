@@ -783,3 +783,4 @@
 - `ExpAbsScaleMode Ext` This keyword indicates that the experimental
 - `sameFrreq` use DO method and J=1.
 - `PATOM` Selects the polarized atoms guess
+- `FASTDER` Use the fast derivatives algorithm?
