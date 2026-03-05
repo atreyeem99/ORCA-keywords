@@ -788,3 +788,4 @@
 - `GDIIS-COPT` COPT using GDIIS
 - `PartialGCFlag -1` Let the program decide whether to use PGC
 - `MULLIKEN` turns on the Mulliken analysis
+- `ACPF_2` Gdanitz modification of it
