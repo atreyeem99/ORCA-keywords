@@ -790,3 +790,4 @@
 - `MULLIKEN` turns on the Mulliken analysis
 - `ACPF_2` Gdanitz modification of it
 - `STEPSCALING` A number for scaling the steps
+- `Adapt_Scale_Displ true ` modify Scale_Displ_SD when the step size becomes smaller or larger
