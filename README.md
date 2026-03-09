@@ -792,3 +792,4 @@
 - `STEPSCALING` A number for scaling the steps
 - `Adapt_Scale_Displ true ` modify Scale_Displ_SD when the step size becomes smaller or larger
 - `AMFI-A` Invokes the AMFI-A treatment of the spin-orbit coupling operator.
+- `force_shark` Force Shark where possible
