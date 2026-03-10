@@ -793,3 +793,4 @@
 - `Adapt_Scale_Displ true ` modify Scale_Displ_SD when the step size becomes smaller or larger
 - `AMFI-A` Invokes the AMFI-A treatment of the spin-orbit coupling operator.
 - `force_shark` Force Shark where possible
+- `TNOSCALES` 10.0 #TNO truncation scale for strong triples, TNOSCALES*TCutTNO. Default setting is 10.0
