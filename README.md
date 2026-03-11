@@ -794,3 +794,4 @@
 - `AMFI-A` Invokes the AMFI-A treatment of the spin-orbit coupling operator.
 - `force_shark` Force Shark where possible
 - `TNOSCALES` 10.0 #TNO truncation scale for strong triples, TNOSCALES*TCutTNO. Default setting is 10.0
+- `ICE-CI method is extremely parallel to the full CI curve at all distances.
