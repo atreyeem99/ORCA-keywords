@@ -796,3 +796,4 @@
 - `TNOSCALES` 10.0 #TNO truncation scale for strong triples, TNOSCALES*TCutTNO. Default setting is 10.0
 - `ICE-CI method is extremely parallel to the full CI curve at all distances.
 - `Nop 2` number of operators
+- `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
