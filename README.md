@@ -799,3 +799,4 @@
 - `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
 - `Free_End false` se free-end NEB. In this case the NImages corresponds to the total number of images.
 - `CDOUBLE` Use double storage in the matrix containers with data compression
+- `Random`Always take the same seed for start for localization
