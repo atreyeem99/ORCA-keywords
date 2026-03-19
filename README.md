@@ -802,3 +802,4 @@
 - `Random`Always take the same seed for start for localization
 - `CHEAPINTS` Use the cheap integral feature in direct SCF calculations
 - `citype` Type of the CI expansion to be applied (one of following)
+- `LINEARIZED` Linear part of the density
