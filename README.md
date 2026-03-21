@@ -804,3 +804,4 @@
 - `citype` Type of the CI expansion to be applied (one of following)
 - `LINEARIZED` Linear part of the density
 - `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
+- `CIM` Cluster-In-Molecule calculation
