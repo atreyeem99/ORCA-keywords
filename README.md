@@ -805,3 +805,4 @@
 - `LINEARIZED` Linear part of the density
 - `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
 - `CIM` Cluster-In-Molecule calculation
+- `COPT` Optimization in Cartesian coordinates
