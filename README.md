@@ -806,3 +806,4 @@
 - `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
 - `CIM` Cluster-In-Molecule calculation
 - `COPT` Optimization in Cartesian coordinates
+- `ZEFF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
