@@ -808,3 +808,4 @@
 - `COPT` Optimization in Cartesian coordinates
 - `ZEFF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
 - `Almlöf` Hessian matrix is used, the curvature at the CI is estimated by using a finite diverence approximation
+- `orca_prop` Calculation of molecular properties
