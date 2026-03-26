@@ -809,3 +809,4 @@
 - `ZEFF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
 - `Almlöf` Hessian matrix is used, the curvature at the CI is estimated by using a finite diverence approximation
 - `orca_prop` Calculation of molecular properties
+- `soln25` index of refraction at optical frequencies at 298 K
