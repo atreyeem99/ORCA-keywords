@@ -811,4 +811,4 @@
 - `orca_prop` Calculation of molecular properties
 - `soln25` index of refraction at optical frequencies at 298 K
 - `density` type of density requested
-- `DecontractBas` Decontract the basis set. If the basis set arises from general contraction, duplicate primitives will be removed.
+- `DecontractBas` Decontract the basis set. If the basis set arises from general contraction, duplicate primitives will be removed. - `STEPSCALING` A number for scaling the steps
