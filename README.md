@@ -813,3 +813,4 @@
 - `density` type of density requested
 - `DecontractBas` Decontract the basis set. If the basis set arises from general contraction, duplicate primitives will be removed. - `STEPSCALING` A number for scaling the steps
 - `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
+- `CIM` Cluster-In-Molecule calculation
