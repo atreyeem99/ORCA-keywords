@@ -818,3 +818,4 @@
 - `T_Bond` Thresh that classifies orbitals in bond-like at the printing
 - `Decontract` Decontract all (orbital and auxiliary) basis sets
 - `Free_End false` se free-end NEB. In this case the NImages corresponds to the total number of images.
+- `NBO` Turns on the interface for the NPA plus NBO analysis with the GENNBO pro- gram
