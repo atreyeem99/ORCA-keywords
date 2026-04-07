@@ -820,3 +820,4 @@
 - `Free_End false` se free-end NEB. In this case the NImages corresponds to the total number of images.
 - `NBO` Turns on the interface for the NPA plus NBO analysis with the GENNBO pro- gram
 - `STRONGSCF` Selects strong SCF convergence
+- `NOLSHIFT` Turns level shifting o↵
