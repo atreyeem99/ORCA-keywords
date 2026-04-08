@@ -821,3 +821,4 @@
 - `NBO` Turns on the interface for the NPA plus NBO analysis with the GENNBO pro- gram
 - `STRONGSCF` Selects strong SCF convergence
 - `NOLSHIFT` Turns level shifting o↵
+-  VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
