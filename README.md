@@ -823,3 +823,4 @@
 - `NOLSHIFT` Turns level shifting o↵
 -  VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
 - `GaussianName "GAU" ` String defining the name of the Gaussian optimizer
+- `IDPP_Alpha` multiplicative factor to scale the size of the step ineach opt. cycle
