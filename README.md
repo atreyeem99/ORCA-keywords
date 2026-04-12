@@ -825,3 +825,4 @@
 - `GaussianName "GAU" ` String defining the name of the Gaussian optimizer
 - `IDPP_Alpha` multiplicative factor to scale the size of the step ineach opt. cycle
 - `ProjectTR false ` project translation and rotation
+- `PLOTS` Control of plot generation
