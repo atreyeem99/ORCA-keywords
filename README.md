@@ -826,3 +826,4 @@
 - `IDPP_Alpha` multiplicative factor to scale the size of the step ineach opt. cycle
 - `ProjectTR false ` project translation and rotation
 - `PLOTS` Control of plot generation
+- `EPRNMR` Control of EPR and NMR calculations
