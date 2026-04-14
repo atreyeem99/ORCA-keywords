@@ -827,3 +827,4 @@
 - `ProjectTR false ` project translation and rotation
 - `PLOTS` Control of plot generation
 - `EPRNMR` Control of EPR and NMR calculations
+- `(FIC-MRCI)` uses the same internal contraction scheme as the FIC-NEVPT2 (aka PC-NEVPT2).
