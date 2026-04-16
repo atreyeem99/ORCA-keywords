@@ -829,3 +829,4 @@
 - `EPRNMR` Control of EPR and NMR calculations
 - `(FIC-MRCI)` uses the same internal contraction scheme as the FIC-NEVPT2 (aka PC-NEVPT2).
 -  `PATOM` Selects the polarized atoms guess
+- `Skeleton` Draw Skeleton of the molecule of those atoms that are in or close to the cut
