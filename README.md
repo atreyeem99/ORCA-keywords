@@ -830,3 +830,4 @@
 - `(FIC-MRCI)` uses the same internal contraction scheme as the FIC-NEVPT2 (aka PC-NEVPT2).
 -  `PATOM` Selects the polarized atoms guess
 - `Skeleton` Draw Skeleton of the molecule of those atoms that are in or close to the cut
+- `XTBVPT2 True` use XTB for the VPT2 correction of the IR
