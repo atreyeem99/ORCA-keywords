@@ -831,3 +831,4 @@
 -  `PATOM` Selects the polarized atoms guess
 - `Skeleton` Draw Skeleton of the molecule of those atoms that are in or close to the cut
 - `XTBVPT2 True` use XTB for the VPT2 correction of the IR
+- `ForceConv` Force convergence: do not continue with the calculation, if the SCF did not fully converge.
