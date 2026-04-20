@@ -833,3 +833,4 @@
 - `XTBVPT2 True` use XTB for the VPT2 correction of the IR
 - `ForceConv` Force convergence: do not continue with the calculation, if the SCF did not fully converge.
 - `L-SR1` is set by default for DeltaSCF
+- `modetype normal` normal modes of vibration: PES
