@@ -834,3 +834,4 @@
 - `ForceConv` Force convergence: do not continue with the calculation, if the SCF did not fully converge.
 - `L-SR1` is set by default for DeltaSCF
 - `modetype normal` normal modes of vibration: PES
+- `citype` Type of the CI expansion to be applied (one of following)
