@@ -835,3 +835,4 @@
 - `L-SR1` is set by default for DeltaSCF
 - `modetype normal` normal modes of vibration: PES
 - `citype` Type of the CI expansion to be applied (one of following)
+- `DKH` Selects the scalar relativistic Douglas– Kroll–Hess Hamiltonian of 2nd order
