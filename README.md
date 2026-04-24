@@ -837,3 +837,4 @@
 - `citype` Type of the CI expansion to be applied (one of following)
 - `DKH` Selects the scalar relativistic Douglas– Kroll–Hess Hamiltonian of 2nd order
 - `TRAH` Turns trust-region augmented Hessian SCF on
+- `USEJ` Consider Duschinsky rotations
