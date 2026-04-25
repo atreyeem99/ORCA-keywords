@@ -838,3 +838,4 @@
 - `DKH` Selects the scalar relativistic Douglas– Kroll–Hess Hamiltonian of 2nd order
 - `TRAH` Turns trust-region augmented Hessian SCF on
 - `USEJ` Consider Duschinsky rotations
+- `casscf_mult` 1,3 multiplicities singlet and triplet
