@@ -839,3 +839,4 @@
 - `TRAH` Turns trust-region augmented Hessian SCF on
 - `USEJ` Consider Duschinsky rotations
 - `casscf_mult` 1,3 multiplicities singlet and triplet
+- `EasyConv` Assumes no convergence problems.
