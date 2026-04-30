@@ -843,3 +843,4 @@
 - `TransInvar true ` Take advantage of translation invariance
 - `Beta1 value` Constant part of J integral parameter beta
 - `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
+-  `UNO` Produce UHF natural orbitals
