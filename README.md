@@ -844,3 +844,4 @@
 - `Beta1 value` Constant part of J integral parameter beta
 - `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
 -  `UNO` Produce UHF natural orbitals
+- `NMREquiv` lists of NMR-equicalent nuclei
