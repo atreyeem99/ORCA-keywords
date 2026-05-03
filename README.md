@@ -846,3 +846,4 @@
 -  `UNO` Produce UHF natural orbitals
 - `NMREquiv` lists of NMR-equicalent nuclei
 - `AUTOSTART` Try to start from the existing GBW file of the same name as the present one (only for single-point calculations)
+- `TDIP` ustom transition dipole
