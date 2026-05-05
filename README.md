@@ -848,3 +848,4 @@
 - `AUTOSTART` Try to start from the existing GBW file of the same name as the present one (only for single-point calculations)
 - `TDIP` ustom transition dipole
 - `ESD(PHOS)` phosphorescence calculation
+- `UF_DELE` Energy difference for updated freq.
