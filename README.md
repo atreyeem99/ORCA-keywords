@@ -849,3 +849,4 @@
 - `TDIP` ustom transition dipole
 - `ESD(PHOS)` phosphorescence calculation
 - `UF_DELE` Energy difference for updated freq.
+-  `UCFLOAT` Use float storage in the matrix containers without data compression
