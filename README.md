@@ -852,3 +852,4 @@
 - `UCFLOAT` Use float storage in the matrix containers without data compression
 - `CIM` Control of Cluster In Molecules calculations
 -  `MULLIKEN` turns on the Mulliken analysis
+- `FASTDER` Use the fast derivatives algorithm?
