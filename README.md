@@ -853,3 +853,4 @@
 - `CIM` Control of Cluster In Molecules calculations
 -  `MULLIKEN` turns on the Mulliken analysis
 - `FASTDER` Use the fast derivatives algorithm?
+-  `Loewdin` Turns on the Loewdin analysis
