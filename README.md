@@ -854,3 +854,4 @@
 -  `MULLIKEN` turns on the Mulliken analysis
 - `FASTDER` Use the fast derivatives algorithm?
 -  `Loewdin` Turns on the Loewdin analysis
+- `Lines` The lineshape function
