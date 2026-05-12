@@ -855,3 +855,4 @@
 - `FASTDER` Use the fast derivatives algorithm?
 -  `Loewdin` Turns on the Loewdin analysis
 - `Lines` The lineshape function
+- `EPRNMR` Control of EPR and NMR calculations
