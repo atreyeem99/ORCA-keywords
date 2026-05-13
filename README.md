@@ -856,3 +856,4 @@
 -  `Loewdin` Turns on the Loewdin analysis
 - `Lines` The lineshape function
 - `EPRNMR` Control of EPR and NMR calculations
+- `LINEARIZED` Linear part of the density
