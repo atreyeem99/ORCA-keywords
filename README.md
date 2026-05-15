@@ -858,3 +858,4 @@
 - `EPRNMR` Control of EPR and NMR calculations
 - `LINEARIZED` Linear part of the density
 - `AMFI-A` Invokes the AMFI-A treatment of the spin-orbit coupling operator.
+- `USEB` Rotate the initial state?
