@@ -862,3 +862,4 @@
 -  `MAYER` Turns on the Mayer analysis
 - `Free_End false` se free-end NEB. In this case the NImages corresponds to the total number of images.
 -  `AIM` Produce a WFN file
+-  `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
