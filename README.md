@@ -864,3 +864,4 @@
 -  `AIM` Produce a WFN file
 -  `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
 - `NMREquiv` lists of NMR-equicalent nuclei
+- `SORCI` Spectroscopy oriented CI
