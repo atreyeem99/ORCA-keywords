@@ -865,3 +865,4 @@
 -  `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
 - `NMREquiv` lists of NMR-equicalent nuclei
 - `SORCI` Spectroscopy oriented CI
+- `VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
