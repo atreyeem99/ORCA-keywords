@@ -866,3 +866,4 @@
 - `NMREquiv` lists of NMR-equicalent nuclei
 - `SORCI` Spectroscopy oriented CI
 - `VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
+- `VOIGT` The default lineshape for resonant Raman is VOIGT.
