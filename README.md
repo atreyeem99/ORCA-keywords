@@ -867,3 +867,4 @@
 - `SORCI` Spectroscopy oriented CI
 - `VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
 - `VOIGT` The default lineshape for resonant Raman is VOIGT.
+- `MP2-F12` MP2 with F12 correction
