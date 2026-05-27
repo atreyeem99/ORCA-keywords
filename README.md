@@ -870,3 +870,4 @@
 - `MP2-F12` MP2 with F12 correction
 - `FICMRCEPA0 ` Fully internally contracted CEPA0
 - `RHF, ROHF, UHF and CASSCF` and offers CI and related methods.
+- `FICMRAQCC` Fully internally contracted AQCC
