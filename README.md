@@ -872,3 +872,4 @@
 - `RHF, ROHF, UHF and CASSCF` and offers CI and related methods.
 - `FICMRAQCC` Fully internally contracted AQCC
 - `Split_rij` new SHARK Split-RI-J algorithm
+- `PLOTS` Control of plot generation
