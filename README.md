@@ -874,3 +874,4 @@
 - `Split_rij` new SHARK Split-RI-J algorithm
 - `PLOTS` Control of plot generation
 -  `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
+-  `Noloewdin` Turns off the Loewdin analysis
