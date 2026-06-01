@@ -875,3 +875,4 @@
 - `PLOTS` Control of plot generation
 -  `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
 -  `Noloewdin` Turns off the Loewdin analysis
+-  `FLOAT` Set storage format for numbers to single precision (SCF, RI-MP2, CIS, CIS(D), MDCI
