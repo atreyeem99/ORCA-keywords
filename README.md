@@ -878,3 +878,4 @@
 -  `FLOAT` Set storage format for numbers to single precision (SCF, RI-MP2, CIS, CIS(D), MDCI
 - `VEFF-SOC` Invokes the VEFF-SOC treatment of the spin-orbit coupling operator.
 - `STEPSCALING` A number for scaling the steps
+- `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
