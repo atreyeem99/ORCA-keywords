@@ -879,3 +879,4 @@
 - `VEFF-SOC` Invokes the VEFF-SOC treatment of the spin-orbit coupling operator.
 - `STEPSCALING` A number for scaling the steps
 - `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
+- `SORCI` Spectroscopy oriented CI
