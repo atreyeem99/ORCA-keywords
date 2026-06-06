@@ -880,3 +880,4 @@
 - `STEPSCALING` A number for scaling the steps
 - `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
 - `SORCI` Spectroscopy oriented CI
+- `LOC` For localization of orbitals
