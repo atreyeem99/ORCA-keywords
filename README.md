@@ -882,3 +882,4 @@
 - `SORCI` Spectroscopy oriented CI
 - `LOC` For localization of orbitals
 - `PLOTS` Control of plot generation
+- `REL` Control of relativistic options
