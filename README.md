@@ -884,3 +884,4 @@
 - `PLOTS` Control of plot generation
 - `REL` Control of relativistic options
 - `DielecConst 1.` dielectric constant used in calc. of electrostatic
+- `SCALING` caling for frequencies
