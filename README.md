@@ -885,3 +885,4 @@
 - `REL` Control of relativistic options
 - `DielecConst 1.` dielectric constant used in calc. of electrostatic
 - `SCALING` caling for frequencies
+- `rocis` Control of restricted-open-shell CIS
