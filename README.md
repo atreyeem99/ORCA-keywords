@@ -889,3 +889,4 @@
 - `NOPRINTMOS` Suppress printing of MO coefficients
 -  `FLOAT` Set storage format for numbers to single precision (SCF, RI-MP2, CIS, CIS(D), MDCI
 - `AMFI-A` Invokes the AMFI-A treatment of the spin-orbit coupling operator.
+- `decorr` for double hybrid functional
