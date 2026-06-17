@@ -891,3 +891,4 @@
 - `AMFI-A` Invokes the AMFI-A treatment of the spin-orbit coupling operator.
 - `decorr` for double hybrid functional
 -  `HUECKEL` Selects the extended Hückel guess
+- `force_shark` Force Shark where possible
