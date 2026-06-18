@@ -892,3 +892,4 @@
 - `decorr` for double hybrid functional
 -  `HUECKEL` Selects the extended Hückel guess
 - `force_shark` Force Shark where possible
+- `COORSYS` Coordinate system for the normal modes
