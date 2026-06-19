@@ -893,3 +893,4 @@
 -  `HUECKEL` Selects the extended Hückel guess
 - `force_shark` Force Shark where possible
 - `COORSYS` Coordinate system for the normal modes
+- `NOPRINTMOS` Suppress printing of MO coefficients
