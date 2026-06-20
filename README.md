@@ -894,3 +894,4 @@
 - `force_shark` Force Shark where possible
 - `COORSYS` Coordinate system for the normal modes
 - `NOPRINTMOS` Suppress printing of MO coefficients
+- `TRAH` Turns trust-region augmented Hessian SCF on
