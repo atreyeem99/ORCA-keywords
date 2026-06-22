@@ -896,3 +896,4 @@
 - `NOPRINTMOS` Suppress printing of MO coefficients
 - `TRAH` Turns trust-region augmented Hessian SCF on
 - `axstda` Fock exchange parameter used in sTDA/sTD-DFT calculation (for range-separated hybrids)
+-  `orbOpt true` turns on the orbital optimization
