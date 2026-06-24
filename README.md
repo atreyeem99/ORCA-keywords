@@ -898,3 +898,4 @@
 - `axstda` Fock exchange parameter used in sTDA/sTD-DFT calculation (for range-separated hybrids)
 -  `orbOpt true` turns on the orbital optimization
 - `symmetry` Control of spatial symmetry recognition
+- `FASTDER` Use the fast derivatives algorithm?
