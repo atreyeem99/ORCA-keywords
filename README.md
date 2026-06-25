@@ -899,3 +899,4 @@
 -  `orbOpt true` turns on the orbital optimization
 - `symmetry` Control of spatial symmetry recognition
 - `FASTDER` Use the fast derivatives algorithm?
+- `Printbasis` Print the basis set in input format.
