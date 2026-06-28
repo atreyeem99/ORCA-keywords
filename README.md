@@ -902,3 +902,4 @@
 - `Printbasis` Print the basis set in input format.
 - `MList` provides the list of the normal modes to be scanned.
 - `riints` RI approximation(MO)
+-  `Loewdin` Turns on the Loewdin analysis
