@@ -903,3 +903,4 @@
 - `MList` provides the list of the normal modes to be scanned.
 - `riints` RI approximation(MO)
 -  `Loewdin` Turns on the Loewdin analysis
+- `RIJONX` RI approximations made in SCF calculations
