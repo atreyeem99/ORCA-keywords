@@ -904,3 +904,4 @@
 - `riints` RI approximation(MO)
 -  `Loewdin` Turns on the Loewdin analysis
 - `RIJONX` RI approximations made in SCF calculations
+-  `MAYER` Turns on the Mayer analysis
