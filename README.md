@@ -906,3 +906,4 @@
 - `RIJONX` RI approximations made in SCF calculations
 -  `MAYER` Turns on the Mayer analysis
 - `TightPNO` is used for steom calculations
+- `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
