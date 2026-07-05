@@ -909,3 +909,4 @@
 - `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
 - `TEMP` for mentioning the temperature at which the property is to be measured
 - `rocis` Control of restricted-open-shell CIS
+- `ZORA` including relativistic correlation
