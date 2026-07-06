@@ -910,3 +910,4 @@
 - `TEMP` for mentioning the temperature at which the property is to be measured
 - `rocis` Control of restricted-open-shell CIS
 - `ZORA` including relativistic correlation
+- `PMODEL` Selects the model potential guess
