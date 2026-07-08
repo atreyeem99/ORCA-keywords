@@ -912,3 +912,4 @@
 - `ZORA` including relativistic correlation
 - `PMODEL` Selects the model potential guess
 -  `CHEAPINTS` Use the cheap integral feature in direct SCF calculations
+- `DoBeta ` Removal/addition of beta electrons
