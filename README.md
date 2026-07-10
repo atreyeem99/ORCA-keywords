@@ -914,3 +914,4 @@
 -  `CHEAPINTS` Use the cheap integral feature in direct SCF calculations
 - `DoBeta ` Removal/addition of beta electrons
 - `SCALFREQ` These are empirical factors that can be used to mul8tiply all frequencies and correct for errors from theory 
+-  `orbOpt true` turns on the orbital optimization
