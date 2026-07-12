@@ -916,3 +916,4 @@
 - `SCALFREQ` These are empirical factors that can be used to mul8tiply all frequencies and correct for errors from theory 
 -  `orbOpt true` turns on the orbital optimization
 - `rij_regular` Use traditional 3 center integrals
+- `ALLPOP` Turns on all population analysis
