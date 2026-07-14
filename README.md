@@ -918,3 +918,4 @@
 - `rij_regular` Use traditional 3 center integrals
 - `ALLPOP` Turns on all population analysis
 - `ESD(ISC)` intersystem crossing calculation
+- `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
