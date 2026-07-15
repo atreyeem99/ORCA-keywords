@@ -919,3 +919,4 @@
 - `ALLPOP` Turns on all population analysis
 - `ESD(ISC)` intersystem crossing calculation
 - `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
+- `EPRNMR` Control of EPR and NMR calculations
