@@ -921,3 +921,4 @@
 - `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
 - `EPRNMR` Control of EPR and NMR calculations
 - `PMODEL` Selects the model potential guess
+- `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
