@@ -923,3 +923,4 @@
 - `PMODEL` Selects the model potential guess
 - `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
 -  `NOMAYER` Turns off the Mayer analysis
+- `SORCI` Spectroscopy oriented CI
