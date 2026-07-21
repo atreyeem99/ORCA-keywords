@@ -925,3 +925,4 @@
 -  `NOMAYER` Turns off the Mayer analysis
 - `SORCI` Spectroscopy oriented CI
 - `LOC` For localization of orbitals
+- `ANGS` Selects Angstorm units
