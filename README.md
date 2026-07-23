@@ -927,3 +927,4 @@
 - `LOC` For localization of orbitals
 - `ANGS` Selects Angstorm units
 - `ZEF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
+-  `READINTS` Reading of two electron integrals on
