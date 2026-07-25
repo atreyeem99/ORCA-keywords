@@ -929,3 +929,4 @@
 - `ZEF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
 -  `READINTS` Reading of two electron integrals on
 - `SOMF(1X)` Invokes the SOMF(1X) treatment of the spin-orbit coupling operator.
+- `FASTDER` Use the fast derivatives algorithm?
