@@ -931,3 +931,4 @@
 - `SOMF(1X)` Invokes the SOMF(1X) treatment of the spin-orbit coupling operator.
 - `FASTDER` Use the fast derivatives algorithm?
 - `DoAlpha` Removal/addition of alpha electrons
+- `symmetry` Control of spatial symmetry recognition
