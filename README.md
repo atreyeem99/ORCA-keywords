@@ -932,3 +932,4 @@
 - `FASTDER` Use the fast derivatives algorithm?
 - `DoAlpha` Removal/addition of alpha electrons
 - `symmetry` Control of spatial symmetry recognition
+- `NMRSpectrum true` request simulation of NMR spectrum
