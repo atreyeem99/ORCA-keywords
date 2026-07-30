@@ -934,3 +934,4 @@
 - `symmetry` Control of spatial symmetry recognition
 - `NMRSpectrum true` request simulation of NMR spectrum
 - `ROCIS` Control of restricted-open-shell CIS
+- `UNO` Produce UHF natural orbitals
