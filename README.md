@@ -935,3 +935,4 @@
 - `NMRSpectrum true` request simulation of NMR spectrum
 - `ROCIS` Control of restricted-open-shell CIS
 - `UNO` Produce UHF natural orbitals
+- `UCFLOAT` Use float storage in the matrix containers without data compression
