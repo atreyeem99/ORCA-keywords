@@ -936,3 +936,4 @@
 - `ROCIS` Control of restricted-open-shell CIS
 - `UNO` Produce UHF natural orbitals
 - `UCFLOAT` Use float storage in the matrix containers without data compression
+- `TEMP` for mentioning the temperature at which the property is to be measured
