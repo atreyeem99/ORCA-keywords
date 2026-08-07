@@ -942,3 +942,4 @@
 - `%MAXCORE n` for increasing memory; n is the value of the increase
 - `ALPB(water)` use implicit solvation, solvent water,  ALPB with water  can also be defined in the xtb block
 - `ForceConv` Force convergence: do not continue with the calculation, if the SCF did not fully converge.
+- `EnGrad` specifying ’density relaxed’ is unnecessary. However, it is needed when calculating properties without the gradient.
