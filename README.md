@@ -945,3 +945,4 @@
 - `EnGrad` specifying ’density relaxed’ is unnecessary. However, it is needed when calculating properties without the gradient.
 - `TEMP` for mentioning the temperature at which the property is to be measured
 - `PARAS` Input of semi-empirical parameters
+- `RIJONX` RI approximations made in SCF calculations
