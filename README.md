@@ -946,3 +946,4 @@
 - `TEMP` for mentioning the temperature at which the property is to be measured
 - `PARAS` Input of semi-empirical parameters
 - `RIJONX` RI approximations made in SCF calculations
+-  `orbOpt true` turns on the orbital optimization
