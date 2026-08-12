@@ -947,3 +947,4 @@
 - `PARAS` Input of semi-empirical parameters
 - `RIJONX` RI approximations made in SCF calculations
 -  `orbOpt true` turns on the orbital optimization
+-  `NOMAYER` Turns off the Mayer analysis
