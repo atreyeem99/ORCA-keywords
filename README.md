@@ -948,3 +948,4 @@
 - `RIJONX` RI approximations made in SCF calculations
 -  `orbOpt true` turns on the orbital optimization
 -  `NOMAYER` Turns off the Mayer analysis
+- `MList` provides the list of the normal modes to be scanned.
