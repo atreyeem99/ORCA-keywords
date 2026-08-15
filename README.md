@@ -950,3 +950,4 @@
 -  `NOMAYER` Turns off the Mayer analysis
 - `MList` provides the list of the normal modes to be scanned.
 - `SCALFREQ` These are empirical factors that can be used to mul8tiply all frequencies and correct for errors from theory 
+-  `UNO` Produce UHF natural orbitals
