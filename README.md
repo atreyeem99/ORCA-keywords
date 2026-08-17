@@ -952,3 +952,4 @@
 - `SCALFREQ` These are empirical factors that can be used to mul8tiply all frequencies and correct for errors from theory 
 -  `UNO` Produce UHF natural orbitals
 - `riints` RI approximation(MO)
+- `SPLIT-RI-J` Select the efficient Split-RI-J procedure for the improved evaluation of the RI- approximation to the Coulomb-matrix
