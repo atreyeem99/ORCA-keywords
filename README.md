@@ -953,3 +953,4 @@
 -  `UNO` Produce UHF natural orbitals
 - `riints` RI approximation(MO)
 - `SPLIT-RI-J` Select the efficient Split-RI-J procedure for the improved evaluation of the RI- approximation to the Coulomb-matrix
+- `MCRPA` Control CASSCF linear response calculations
