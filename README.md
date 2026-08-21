@@ -956,3 +956,4 @@
 - `MCRPA` Control CASSCF linear response calculations
 - `EnGrad` specifying ’density relaxed’ is unnecessary. However, it is needed when calculating properties without the gradient.
 - `ANGS` Selects Angstorm units
+- `noiter` in order to turn o↵ the standard Hartree-Fock SCF process before entering the orbital optimizations.
