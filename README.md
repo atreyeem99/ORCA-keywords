@@ -958,3 +958,4 @@
 - `ANGS` Selects Angstorm units
 - `noiter` in order to turn o↵ the standard Hartree-Fock SCF process before entering the orbital optimizations.
 - `NMRSpectrum true` request simulation of NMR spectrum
+- `Noloewdin` Turns off the Loewdin analysis
