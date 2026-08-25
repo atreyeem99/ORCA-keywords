@@ -960,3 +960,4 @@
 - `NMRSpectrum true` request simulation of NMR spectrum
 - `Noloewdin` Turns off the Loewdin analysis
 - `DoBeta ` Removal/addition of beta electrons
+- `MP2-F12` MP2 with F12 correction
