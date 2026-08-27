@@ -962,3 +962,4 @@
 - `DoBeta ` Removal/addition of beta electrons
 - `MP2-F12` MP2 with F12 correction
 - `HUECKEL` Selects the extended Hückel guess
+- `EnGrad` specifying ’density relaxed’ is unnecessary. However, it is needed when calculating properties without the gradient.
