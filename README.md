@@ -965,3 +965,4 @@
 - `EnGrad` specifying ’density relaxed’ is unnecessary. However, it is needed when calculating properties without the gradient.
 - `DecontractAuxJ` Decontract the AuxJ basis set
 - `FLOAT` Set storage format for numbers to single precision (SCF, RI-MP2, CIS, CIS(D), MDCI
+- `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
