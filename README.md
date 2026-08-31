@@ -966,3 +966,4 @@
 - `DecontractAuxJ` Decontract the AuxJ basis set
 - `FLOAT` Set storage format for numbers to single precision (SCF, RI-MP2, CIS, CIS(D), MDCI
 - `PRINTGAP` Prints the HOMO/LUMO gap in each SCF iteration. This may help to detect convergence problems
+- `noiter` in order to turn o↵ the standard Hartree-Fock SCF process before entering the orbital optimizations.
