@@ -969,3 +969,4 @@
 - `noiter` in order to turn o↵ the standard Hartree-Fock SCF process before entering the orbital optimizations.
 - `PLOTS` Control of plot generation
 - `REL` Control of relativistic options
+- `PMODEL` Selects the model potential guess
