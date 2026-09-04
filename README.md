@@ -970,3 +970,4 @@
 - `PLOTS` Control of plot generation
 - `REL` Control of relativistic options
 - `PMODEL` Selects the model potential guess
+- `FIC-DDCI3` Fully internally contracted DDCI3
