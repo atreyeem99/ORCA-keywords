@@ -972,3 +972,4 @@
 - `PMODEL` Selects the model potential guess
 - `FIC-DDCI3` Fully internally contracted DDCI3
 - `RSteps and LSteps` specify the number of steps in positive and negative direction along each mode in the list.
+- `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
