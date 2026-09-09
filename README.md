@@ -975,3 +975,4 @@
 - `AMFI` Invokes the AMFI treatment of the spin-orbit coupling operator.
 - `AIM` Produce a WFN file
 - `PLOTS` Control of plot generation
+- `symmetry` Control of spatial symmetry recognition
