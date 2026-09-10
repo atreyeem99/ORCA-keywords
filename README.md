@@ -976,3 +976,4 @@
 - `AIM` Produce a WFN file
 - `PLOTS` Control of plot generation
 - `symmetry` Control of spatial symmetry recognition
+- `PRINTMOS` Prints MO coeffecients
