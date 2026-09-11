@@ -977,3 +977,4 @@
 - `PLOTS` Control of plot generation
 - `symmetry` Control of spatial symmetry recognition
 - `PRINTMOS` Prints MO coeffecients
+- `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
