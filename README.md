@@ -978,3 +978,4 @@
 - `symmetry` Control of spatial symmetry recognition
 - `PRINTMOS` Prints MO coeffecients
 - `RR` Control of resonance Raman and absorption/fluorescence band-shape calculations
+- `Random`Always take the same seed for start for localization
