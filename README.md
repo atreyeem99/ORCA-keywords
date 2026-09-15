@@ -981,3 +981,4 @@
 - `Random`Always take the same seed for start for localization
 - `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
 - `VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
+- `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
