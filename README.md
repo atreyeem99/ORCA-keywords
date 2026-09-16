@@ -982,3 +982,4 @@
 - `CIPSI` Control of Iterative-Configuration Expansion Configuration Interaction calculation
 - `VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
 - `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
+- `Lines` The lineshape function
