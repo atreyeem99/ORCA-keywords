@@ -983,3 +983,4 @@
 - `VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
 - `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
 - `Lines` The lineshape function
+- `NMRSpectrum true` request simulation of NMR spectrum
