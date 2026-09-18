@@ -984,3 +984,4 @@
 - `SPECRES` The resolution of the spectrum can be modified with the SPECRES flag.
 - `Lines` The lineshape function
 - `NMRSpectrum true` request simulation of NMR spectrum
+- `sTDA` Use sTDA during derivatives
