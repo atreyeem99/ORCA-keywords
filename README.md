@@ -985,3 +985,4 @@
 - `Lines` The lineshape function
 - `NMRSpectrum true` request simulation of NMR spectrum
 - `sTDA` Use sTDA during derivatives
+- `SCS-MP2` Spin-component scaled MP2
