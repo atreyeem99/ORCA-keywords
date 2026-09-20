@@ -986,3 +986,4 @@
 - `NMRSpectrum true` request simulation of NMR spectrum
 - `sTDA` Use sTDA during derivatives
 - `SCS-MP2` Spin-component scaled MP2
+- `UCFLOAT` Use float storage in the matrix containers without data compression
