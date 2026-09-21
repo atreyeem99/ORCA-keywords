@@ -987,3 +987,4 @@
 - `sTDA` Use sTDA during derivatives
 - `SCS-MP2` Spin-component scaled MP2
 - `UCFLOAT` Use float storage in the matrix containers without data compression
+- `CIM` Control of Cluster In Molecules calculations
