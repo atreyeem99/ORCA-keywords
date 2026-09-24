@@ -990,3 +990,4 @@
 - `CIM` Control of Cluster In Molecules calculations
 - `DKH` Selects the scalar relativistic Douglas– Kroll–Hess Hamiltonian of 2nd order
 - `STRONGSCF` Selects strong SCF convergence
+- `Decontract` Decontract all (orbital and auxiliary) basis sets
