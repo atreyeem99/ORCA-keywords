@@ -994,3 +994,4 @@
 - `Skeleton` Draw Skeleton of the molecule of those atoms that are in or close to the cut
 - `Lines` The lineshape function
 - `DecontractAuxJ` Decontract the AuxJ basis set
+- `ZEF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
