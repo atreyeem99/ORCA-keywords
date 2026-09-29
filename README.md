@@ -995,3 +995,4 @@
 - `Lines` The lineshape function
 - `DecontractAuxJ` Decontract the AuxJ basis set
 - `ZEF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
+- `DELRE` Custom energy difference
