@@ -997,3 +997,4 @@
 - `ZEF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
 - `DELRE` Custom energy difference
 - `sTDA` Use sTDA during derivatives
+- `NMREquiv` lists of NMR-equicalent nuclei
