@@ -998,3 +998,4 @@
 - `DELRE` Custom energy difference
 - `sTDA` Use sTDA during derivatives
 - `NMREquiv` lists of NMR-equicalent nuclei
+- `ELPROP` Control of electric property calculations
