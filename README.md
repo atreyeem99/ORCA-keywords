@@ -1000,3 +1000,4 @@
 - `NMREquiv` lists of NMR-equicalent nuclei
 - `ELPROP` Control of electric property calculations
 - `STEPSCALING` A number for scaling the steps
+- `sola` # Abraham’s hydrogen bond acidity
