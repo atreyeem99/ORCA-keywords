@@ -1001,3 +1001,4 @@
 - `ELPROP` Control of electric property calculations
 - `STEPSCALING` A number for scaling the steps
 - `sola` # Abraham’s hydrogen bond acidity
+- `Random`Always take the same seed for start for localization
