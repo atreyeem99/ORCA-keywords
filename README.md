@@ -1003,3 +1003,4 @@
 - `sola` # Abraham’s hydrogen bond acidity
 - `Random`Always take the same seed for start for localization
 - `NMREquiv` lists of NMR-equicalent nuclei
+- `Random`Always take the same seed for start for localization
