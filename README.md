@@ -1003,4 +1003,5 @@
 - `sola` # Abraham’s hydrogen bond acidity
 - `Random`Always take the same seed for start for localization
 - `NMREquiv` lists of NMR-equicalent nuclei
-- `Random`Always take the same seed for start for localization
+- `Random` Always take the same seed for start for localization
+-  `UCFLOAT` Use float storage in the matrix containers without data compression
