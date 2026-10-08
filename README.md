@@ -1005,3 +1005,4 @@
 - `NMREquiv` lists of NMR-equicalent nuclei
 - `Random` Always take the same seed for start for localization
 -  `UCFLOAT` Use float storage in the matrix containers without data compression
+- `CDOUBLE` Use double storage in the matrix containers with data compression
