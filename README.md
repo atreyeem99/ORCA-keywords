@@ -1007,3 +1007,4 @@
 -  `UCFLOAT` Use float storage in the matrix containers without data compression
 - `CDOUBLE` Use double storage in the matrix containers with data compression
 - `EasyConv` Assumes no convergence problems.
+- `TDIP` ustom transition dipole
