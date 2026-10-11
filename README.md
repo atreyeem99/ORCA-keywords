@@ -1008,3 +1008,4 @@
 - `CDOUBLE` Use double storage in the matrix containers with data compression
 - `EasyConv` Assumes no convergence problems.
 - `TDIP` ustom transition dipole
+- `NMREquiv` lists of NMR-equicalent nuclei
