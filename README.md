@@ -1011,3 +1011,4 @@
 - `NMREquiv` lists of NMR-equicalent nuclei
 - `TOL` absolute convergence tolerance for the localization sum
 - `DELTA` lineshape might lead to a correlation function that oscillates forever, so please take care with that option.
+- `MCRPA` Control CASSCF linear response calculations
