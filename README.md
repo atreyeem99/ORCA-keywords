@@ -1013,3 +1013,4 @@
 - `DELTA` lineshape might lead to a correlation function that oscillates forever, so please take care with that option.
 - `MCRPA` Control CASSCF linear response calculations
 - `FASTDER` Use the fast derivatives algorithm?
+- `GDIIS-COPT` COPT using GDIIS
