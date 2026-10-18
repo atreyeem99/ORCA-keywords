@@ -1015,3 +1015,4 @@
 - `FASTDER` Use the fast derivatives algorithm?
 - `GDIIS-COPT` COPT using GDIIS
 - `Lines` The lineshape function
+- `FASTDER` Use the fast derivatives algorithm?
