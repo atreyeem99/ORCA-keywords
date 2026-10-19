@@ -1016,3 +1016,4 @@
 - `GDIIS-COPT` COPT using GDIIS
 - `Lines` The lineshape function
 - `FASTDER` Use the fast derivatives algorithm?
+-  `ALPB(water)` use implicit solvation, solvent water,  ALPB with water  can also be defined in the xtb block
