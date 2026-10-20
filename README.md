@@ -1017,3 +1017,4 @@
 - `Lines` The lineshape function
 - `FASTDER` Use the fast derivatives algorithm?
 -  `ALPB(water)` use implicit solvation, solvent water,  ALPB with water  can also be defined in the xtb block
+- `RSteps and LSteps` specify the number of steps in positive and negative direction along each mode in the list.
