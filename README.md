@@ -1020,3 +1020,4 @@
 - `RSteps and LSteps` specify the number of steps in positive and negative direction along each mode in the list.
 - `Random`Always take the same seed for start for localization
 - `VIRT` Localize the virtual space
+- `NOSMEAR` Turn occupation number smearing off
