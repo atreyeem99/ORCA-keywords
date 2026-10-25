@@ -1021,3 +1021,4 @@
 - `Random`Always take the same seed for start for localization
 - `VIRT` Localize the virtual space
 - `NOSMEAR` Turn occupation number smearing off
+- `LASERE` The laser energy for RR
