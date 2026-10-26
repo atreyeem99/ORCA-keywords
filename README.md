@@ -1022,3 +1022,4 @@
 - `VIRT` Localize the virtual space
 - `NOSMEAR` Turn occupation number smearing off
 - `LASERE` The laser energy for RR
+- `SCALING` caling for frequencies
