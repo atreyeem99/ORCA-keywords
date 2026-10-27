@@ -1023,3 +1023,4 @@
 - `NOSMEAR` Turn occupation number smearing off
 - `LASERE` The laser energy for RR
 - `SCALING` caling for frequencies
+- `CIM` Control of Cluster In Molecules calculations
