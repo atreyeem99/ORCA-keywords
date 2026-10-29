@@ -1025,3 +1025,4 @@
 - `SCALING` caling for frequencies
 - `CIM` Control of Cluster In Molecules calculations
 -  `DecontractAuxJ` Decontract the AuxJ basis set
+- `IDPP_ksp` spring constant used to scale the spring force parallel to the path.
