@@ -1027,3 +1027,4 @@
 -  `DecontractAuxJ` Decontract the AuxJ basis set
 - `IDPP_ksp` spring constant used to scale the spring force parallel to the path.
 -  `READINTS` Reading of two electron integrals on
+- `COORSYS` Coordinate system for the normal modes
