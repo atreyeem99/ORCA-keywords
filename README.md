@@ -1028,3 +1028,4 @@
 - `IDPP_ksp` spring constant used to scale the spring force parallel to the path.
 -  `READINTS` Reading of two electron integrals on
 - `COORSYS` Coordinate system for the normal modes
+-  `orbOpt true` turns on the orbital optimization
