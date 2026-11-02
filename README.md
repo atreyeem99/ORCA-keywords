@@ -1029,3 +1029,4 @@
 -  `READINTS` Reading of two electron integrals on
 - `COORSYS` Coordinate system for the normal modes
 -  `orbOpt true` turns on the orbital optimization
+- `NMRSpectrum true` request simulation of NMR spectrum
