@@ -1030,3 +1030,4 @@
 - `COORSYS` Coordinate system for the normal modes
 -  `orbOpt true` turns on the orbital optimization
 - `NMRSpectrum true` request simulation of NMR spectrum
+-  `Noloewdin` Turns off the Loewdin analysis
