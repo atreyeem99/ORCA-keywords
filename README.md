@@ -1031,3 +1031,4 @@
 -  `orbOpt true` turns on the orbital optimization
 - `NMRSpectrum true` request simulation of NMR spectrum
 -  `Noloewdin` Turns off the Loewdin analysis
+- `DecontractBas` Decontract the basis set. If the basis set arises from general contraction, duplicate primitives will be removed.
