@@ -1033,3 +1033,4 @@
 -  `Noloewdin` Turns off the Loewdin analysis
 - `DecontractBas` Decontract the basis set. If the basis set arises from general contraction, duplicate primitives will be removed.
 - `ELPROP` Control of electric property calculations
+- `IgnoreConv` Ignore convergence: continue with the calculation, even if the SCF wavefunction is far from convergence.
