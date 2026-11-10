@@ -1037,3 +1037,4 @@
 - `RI-SOMF(1X)` Invokes the SOMF(1X) treatment of the spin-orbit coupling operator, with RI four the Coulomb part.
 - `IORAmm/RI`Selects the scalar relativistic IORA mm (modified metric) Hamiltonian in RI approximation
 - `PLOTS` Control of plot generation
+- `sTDA` Use sTDA during derivatives
