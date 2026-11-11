@@ -1038,3 +1038,4 @@
 - `IORAmm/RI`Selects the scalar relativistic IORA mm (modified metric) Hamiltonian in RI approximation
 - `PLOTS` Control of plot generation
 - `sTDA` Use sTDA during derivatives
+- `Random`Always take the same seed for start for localization
