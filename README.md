@@ -1040,3 +1040,4 @@
 - `sTDA` Use sTDA during derivatives
 - `Random`Always take the same seed for start for localization
 - `ZEF-SOC` Uses e↵ective nuclear charges for the spin-orbit coupling operator.
+- `OCC` Localize the occupied space
