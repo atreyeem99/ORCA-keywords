@@ -1043,3 +1043,4 @@
 - `OCC` Localize the occupied space
 - `ROCIS` Control of restricted-open-shell CIS
 -  `NORMALPRINT` Selects the normal output
+- `DELRE` Custom energy difference
