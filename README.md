@@ -1044,3 +1044,4 @@
 - `ROCIS` Control of restricted-open-shell CIS
 -  `NORMALPRINT` Selects the normal output
 - `DELRE` Custom energy difference
+- `READINTS` Reading of two electron integrals on
