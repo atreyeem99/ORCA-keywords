@@ -1045,3 +1045,4 @@
 -  `NORMALPRINT` Selects the normal output
 - `DELRE` Custom energy difference
 - `READINTS` Reading of two electron integrals on
+-  `NOMAYER` Turns off the Mayer analysis
