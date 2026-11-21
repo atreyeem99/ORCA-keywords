@@ -1048,3 +1048,4 @@
 -  `NOMAYER` Turns off the Mayer analysis
 - `COPT` Optimization in Cartesian coordinates
 - `COORSYS` Coordinate system for the normal modes
+- `STRONGSCF` Selects strong SCF convergence
