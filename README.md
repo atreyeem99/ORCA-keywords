@@ -1050,3 +1050,4 @@
 - `COORSYS` Coordinate system for the normal modes
 - `STRONGSCF` Selects strong SCF convergence
 - `VIRT` Localize the virtual space
+- `VOIGT` The default lineshape for resonant Raman is VOIGT.
