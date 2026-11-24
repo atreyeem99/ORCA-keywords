@@ -1051,3 +1051,4 @@
 - `STRONGSCF` Selects strong SCF convergence
 - `VIRT` Localize the virtual space
 - `VOIGT` The default lineshape for resonant Raman is VOIGT.
+-  `NOMAYER` Turns off the Mayer analysis
