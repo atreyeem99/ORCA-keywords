@@ -1053,3 +1053,4 @@
 - `VOIGT` The default lineshape for resonant Raman is VOIGT.
 -  `NOMAYER` Turns off the Mayer analysis
 -  `AIM` Produce a WFN file
+-  `MULLIKEN` turns on the Mulliken analysis
