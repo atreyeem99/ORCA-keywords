@@ -1054,3 +1054,4 @@
 -  `NOMAYER` Turns off the Mayer analysis
 -  `AIM` Produce a WFN file
 -  `MULLIKEN` turns on the Mulliken analysis
+- `VerySlowConv` Selects appropriate SCF converger criteria for very difficult cases.
